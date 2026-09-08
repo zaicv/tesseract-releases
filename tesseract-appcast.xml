@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.0</title>
+      <pubDate>Mon, 07 Sep 2026 22:22:55 -0500</pubDate>
+      <sparkle:version>202609072220</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Databases tab (Supabase-Studio-shaped table editor), the Saga Pipeline workspace with a live disc-to-Plex timeline, activity narration, a typable terminal for every agent, and a terminal gallery with reconnect instead of dead-end sessions.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.1.0/Tesseract-1.1.0.dmg" length="8468323" type="application/octet-stream" sparkle:edSignature="yDGwFjmIdj6JcethceB14IJ9ZVQJrJEqP9RNXewvBEzOEucoDbOpjnNiTpk0sm3xeYFFFfALDNKJFsrsE9BfDQ==" />
+    </item>
+    <item>
       <title>Version 1.0.0</title>
       <pubDate>Mon, 07 Sep 2026 10:10:43 -0500</pubDate>
       <sparkle:version>202609071007</sparkle:version>
