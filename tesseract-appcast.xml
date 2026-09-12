@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.2.0</title>
+      <pubDate>Sat, 12 Sep 2026 18:05:45 -0500</pubDate>
+      <sparkle:version>202609121803</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Terminals rebuilt on the daemon: one durable tmux session per agent, every terminal visible including ones started from Termius, live state over an event stream instead of polling, and sign-in over Supabase OAuth so a Mac on the tailnet no longer needs pairing approval.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.2.0/Tesseract-1.2.0.dmg" length="8841607" type="application/octet-stream" sparkle:edSignature="cey8X2hlSbDUzZAM0xXjsggppyyjbgoBLZnUnipCnVZuOvcYMzJKlM7aJkB7t1GAuVoCz1MfXvObrvwQpdLNBQ==" />
+    </item>
+    <item>
       <title>Version 1.1.0</title>
       <pubDate>Mon, 07 Sep 2026 22:22:55 -0500</pubDate>
       <sparkle:version>202609072220</sparkle:version>
