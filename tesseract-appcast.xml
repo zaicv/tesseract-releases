@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.3.0</title>
+      <pubDate>Sat, 12 Sep 2026 18:40:01 -0500</pubDate>
+      <sparkle:version>202609121837</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>The app icon, and a connection you can see: the toolbar now carries the home server's own state with the real marks of the services behind it, fetched from their domains rather than drawn. Sign-in assembles rather than appears, and Connections reports what home is actually holding.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.3.0/Tesseract-1.3.0.dmg" length="14246208" type="application/octet-stream" sparkle:edSignature="HsHbD6tOwRCgVf5BssDucb+5ov24dDbkJaOJhTNc7DXnku4sKQEMbEaICKgpaPAH0uIKG2Qf2FlTAYpD7pXYAg==" />
+    </item>
+    <item>
       <title>Version 1.2.0</title>
       <pubDate>Sat, 12 Sep 2026 18:05:45 -0500</pubDate>
       <sparkle:version>202609121803</sparkle:version>
