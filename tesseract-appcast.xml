@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.4.3</title>
+      <pubDate>Sat, 12 Sep 2026 23:28:54 -0500</pubDate>
+      <sparkle:version>202609122325</sparkle:version>
+      <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Reports why the home server refused a credential instead of claiming approval is pending.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.4.3/Tesseract-1.4.3.dmg" length="14482752" type="application/octet-stream" sparkle:edSignature="+pSUS6KbE1xrTrp95aVSsahuqo0HO91twrBin9i6AfOIa8sgOGEDMb5xJCTdGly0Ng55FvyfcEgLg/7pZTXwCg==" />
+    </item>
+    <item>
       <title>Version 1.4.2</title>
       <pubDate>Sat, 12 Sep 2026 22:51:15 -0500</pubDate>
       <sparkle:version>202609122248</sparkle:version>
