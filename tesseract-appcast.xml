@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.4.0</title>
+      <pubDate>Sat, 12 Sep 2026 21:24:02 -0500</pubDate>
+      <sparkle:version>202609122121</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Diagnostics: one log for every machine, and a Devices tab for the whole fleet.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.4.0/Tesseract-1.4.0.dmg" length="14468699" type="application/octet-stream" sparkle:edSignature="WnSK7mzLt+ooE3stoXIE2nCGTqfYPMziMeVca8EBAgNHWGnSGCnEMchDYpuv0lFKLQhKAnwyacjLpXAyGKEqDA==" />
+    </item>
+    <item>
       <title>Version 1.3.0</title>
       <pubDate>Sat, 12 Sep 2026 18:40:01 -0500</pubDate>
       <sparkle:version>202609121837</sparkle:version>
