@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.5.0</title>
+      <pubDate>Mon, 14 Sep 2026 14:10:36 -0500</pubDate>
+      <sparkle:version>202609141402</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>MDS tab drawn live from the home Mac, with Makefile controls, a live console and one-click fixes for health findings. View Data opens a full-screen presentation of everything in Gold, built from the warehouse itself, with real Phoebe orbs.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.5.0/Tesseract-1.5.0.dmg" length="16046613" type="application/octet-stream" sparkle:edSignature="O05oPm1QXRBWbAd7cl2d98zFElgW7gtfWvJPoeehRd1Vn5pKgoInrEFCO1x0gPA9wuuQ0801l4e0/ENRNu/pAA==" />
+    </item>
+    <item>
       <title>Version 1.4.4</title>
       <pubDate>Sat, 12 Sep 2026 23:33:43 -0500</pubDate>
       <sparkle:version>202609122331</sparkle:version>
