@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.6.0</title>
+      <pubDate>Fri, 18 Sep 2026 14:34:23 -0500</pubDate>
+      <sparkle:version>202609181430</sparkle:version>
+      <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>A setup wizard that finds your home server on your Tailscale network instead of relying on a built-in address, connects, and shows what this Mac and home actually are. Fabricators now live beside the skills in the vault's .claude folder.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.6.0/Tesseract-1.6.0.dmg" length="16761938" type="application/octet-stream" sparkle:edSignature="aeDEQJZzh2CjmH1wnEaqkSBEyZd7SKP6e9eXxStEQJrUTq6EvO5a5G9yaq/cV/870c7bwVNfxUU8Niz9qm3gDw==" />
+    </item>
+    <item>
       <title>Version 1.5.0</title>
       <pubDate>Mon, 14 Sep 2026 14:10:36 -0500</pubDate>
       <sparkle:version>202609141402</sparkle:version>
