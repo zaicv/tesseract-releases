@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.6.5</title>
+      <pubDate>Fri, 18 Sep 2026 19:40:11 -0500</pubDate>
+      <sparkle:version>202609181937</sparkle:version>
+      <sparkle:shortVersionString>1.6.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Fixes a real regression from 1.6.4: the archive silently signed ad-hoc instead of with the real identity once App Sandbox was removed, which broke Sparkle's own signature check and corrupted an in-place auto-update. The signing identity is now pinned explicitly rather than left to Automatic.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.6.5/Tesseract-1.6.5.dmg" length="16762505" type="application/octet-stream" sparkle:edSignature="zqzDxp3tc73RAn/T/ULV3MGQd4VmZNPR83M+oc/HEzLP6g1+UYWt+Ma7ETvr0bfk1vvh7M/oCY7F6Umib3wsDA==" />
+    </item>
+    <item>
       <title>Version 1.6.4</title>
       <pubDate>Fri, 18 Sep 2026 19:32:42 -0500</pubDate>
       <sparkle:version>202609181929</sparkle:version>
