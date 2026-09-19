@@ -6,12 +6,12 @@
     <language>en</language>
     <item>
       <title>Version 1.6.3</title>
-      <pubDate>Fri, 18 Sep 2026 18:53:45 -0500</pubDate>
-      <sparkle:version>202609181849</sparkle:version>
+      <pubDate>Fri, 18 Sep 2026 19:28:04 -0500</pubDate>
+      <sparkle:version>202609181925</sparkle:version>
       <sparkle:shortVersionString>1.6.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-      <description>Fixed PhoebeOS Provisioning</description>
-      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.6.3/Tesseract-1.6.3.dmg" length="16740952" type="application/octet-stream" sparkle:edSignature="QFvvbi3ZnmDQ+haL6Z9yHeTaWZ6annrY2SiMV1fNB8dBi3o/TNlV2K3ZVmVPrxSaHT6ZBFjoXvdJWIWGrnqFCw==" />
+      <description>Fixes a real blocker: Tesseract could only ever run on the exact Mac it was built on. App Sandbox plus an Apple Development signing identity made Xcode embed a device-locked provisioning profile in every export, so a second Mac got 'The application cannot be opened' with no fix available in System Settings. Sandbox is removed — nothing here needed it.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.6.3/Tesseract-1.6.3.dmg" length="16740676" type="application/octet-stream" sparkle:edSignature="fS/J5eigLlIfTFFGIzSyRsdNLgec91243SNuRxgdrp/CBtX+XpqY9J5auIcx02Z3Q0SGpM33wzNJ2aL0H4YMCQ==" />
     </item>
     <item>
       <title>Version 1.6.2</title>
