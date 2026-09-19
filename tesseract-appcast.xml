@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.7.0</title>
+      <pubDate>Sat, 19 Sep 2026 01:42:45 -0500</pubDate>
+      <sparkle:version>202609190139</sparkle:version>
+      <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>New Interface tab: talk to your agents in threads — streamed replies, tool calls you can expand, and your agents' actions right in the composer. Replaces Actions and Runs; the Terminal tab is unchanged.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.7.0/Tesseract-1.7.0.dmg" length="17111303" type="application/octet-stream" sparkle:edSignature="FygGUDGPw5OJrZ/czaW2s4e07IeeP3OcIq7TSsPLBJeCWr+RrvD3eMB0c+QnN1IDpQFdF1U4YXwbnKTqpnSkBQ==" />
+    </item>
+    <item>
       <title>Version 1.6.6</title>
       <pubDate>Fri, 18 Sep 2026 19:44:03 -0500</pubDate>
       <sparkle:version>202609181941</sparkle:version>
