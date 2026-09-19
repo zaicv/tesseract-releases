@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.6.4</title>
+      <pubDate>Fri, 18 Sep 2026 19:32:42 -0500</pubDate>
+      <sparkle:version>202609181929</sparkle:version>
+      <sparkle:shortVersionString>1.6.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Verifies self-update still works after removing App Sandbox.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.6.4/Tesseract-1.6.4.dmg" length="16740678" type="application/octet-stream" sparkle:edSignature="bvfrH6pP6flQXpZMmbPmucXs4CRuCUgKBxE1V+65AliHhHYkrsLkH3yQauhskbevuzjV5ABWQgvBRd1ljLuvCg==" />
+    </item>
+    <item>
       <title>Version 1.6.3</title>
       <pubDate>Fri, 18 Sep 2026 19:28:04 -0500</pubDate>
       <sparkle:version>202609181925</sparkle:version>
