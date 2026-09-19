@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.8.0</title>
+      <pubDate>Sat, 19 Sep 2026 12:10:48 -0500</pubDate>
+      <sparkle:version>202609191207</sparkle:version>
+      <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Threads read like Claude Code's desktop app: replies grouped under the agent, tool runs folded, a live 'working · elapsed' line, Return to steer while it works, Esc to stop. The sidebar says when home can't be reached instead of going blank.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.8.0/Tesseract-1.8.0.dmg" length="17156585" type="application/octet-stream" sparkle:edSignature="KR3RZZJIz2SY9EEWTQ3igJNqKcFrsPvGxSdpI/8M3RdFCWdOpXJ+rWuKBlpL6QGOCl2nTxKn8Asu0xOTO1IBAQ==" />
+    </item>
+    <item>
       <title>Version 1.7.0</title>
       <pubDate>Sat, 19 Sep 2026 01:42:45 -0500</pubDate>
       <sparkle:version>202609190139</sparkle:version>
