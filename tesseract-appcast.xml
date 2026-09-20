@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.14.0</title>
+      <pubDate>Sun, 20 Sep 2026 16:27:03 -0500</pubDate>
+      <sparkle:version>202609201623</sparkle:version>
+      <sparkle:shortVersionString>1.14.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Fabricators go live: the running step's node glows with a progress bar, finished steps check off, failures go red — plus a floating status card with the current step, percent, ETA and every step's state. The Fabricators tab is now where you watch a pipeline run.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.14.0/Tesseract-1.14.0.dmg" length="17466029" type="application/octet-stream" sparkle:edSignature="CLJSEtZOQd53E1l27a7ddYPZBaeo3qdAuKoSmZXJMj9B+TklcV2LPGLq46K+JNnycW3ucT7D6qhFuru0FZjGAw==" />
+    </item>
+    <item>
       <title>Version 1.13.0</title>
       <pubDate>Sun, 20 Sep 2026 16:20:36 -0500</pubDate>
       <sparkle:version>202609201616</sparkle:version>
