@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.12.0</title>
+      <pubDate>Sun, 20 Sep 2026 01:12:31 -0500</pubDate>
+      <sparkle:version>202609200108</sparkle:version>
+      <sparkle:shortVersionString>1.12.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Agent workspace gets two new looks: the orb floating at top-center with sections that slide out on hover, or pinned in the corner with a real Liquid Glass panel that grows out of it. Pick one in Settings — pure UI, nothing about what a section does changed.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.12.0/Tesseract-1.12.0.dmg" length="17487831" type="application/octet-stream" sparkle:edSignature="hDCfe75JC1Dr+MeJp0h+z3FO4Q0aqx+MtPsu5Y5T4H8qkDny14BQu304K9BPFgqBaz0EL1WKeHT/1YreCjJhCA==" />
+    </item>
+    <item>
       <title>Version 1.11.0</title>
       <pubDate>Sun, 20 Sep 2026 00:53:32 -0500</pubDate>
       <sparkle:version>202609200048</sparkle:version>
