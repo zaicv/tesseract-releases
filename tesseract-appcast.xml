@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.12.2</title>
+      <pubDate>Sun, 20 Sep 2026 15:28:09 -0500</pubDate>
+      <sparkle:version>202609201524</sparkle:version>
+      <sparkle:shortVersionString>1.12.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Drop the broken corner-panel notch for a plain, barely-there glass rectangle above-left of the orb. The floating orb now takes over the real window toolbar (hidden while it's active) instead of sitting in a second gray strip underneath it — genuinely transparent, including in fullscreen.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.12.2/Tesseract-1.12.2.dmg" length="17483414" type="application/octet-stream" sparkle:edSignature="hNfmGk0iPx8AjIFNjHBCBm5Zszo/BXjWRVPJpjHRp8Qa1foKKsG9gHMi1jwy5BlothCvNVpjxEY5k4qm03Z5CA==" />
+    </item>
+    <item>
       <title>Version 1.12.1</title>
       <pubDate>Sun, 20 Sep 2026 15:16:30 -0500</pubDate>
       <sparkle:version>202609201512</sparkle:version>
