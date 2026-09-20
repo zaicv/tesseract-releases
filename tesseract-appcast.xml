@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.11.0</title>
+      <pubDate>Sun, 20 Sep 2026 00:53:32 -0500</pubDate>
+      <sparkle:version>202609200048</sparkle:version>
+      <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>God State: expand the Terminals window into a full dashboard — every agent, every tmux session, every headless process, with live cpu/mem, elapsed time, open files and working directory. Work sorts to the top and breathes while it's actually running.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.11.0/Tesseract-1.11.0.dmg" length="17480142" type="application/octet-stream" sparkle:edSignature="8uWTs1UiZanp6WCfoPjuGJI4ES2cTUBbFjKKyFDwP18sNyxWq7cnh+2SJW4EMWYJ0Y+tNhKrbPPLfzZ4n1izCw==" />
+    </item>
+    <item>
       <title>Version 1.10.0</title>
       <pubDate>Sat, 19 Sep 2026 21:29:28 -0500</pubDate>
       <sparkle:version>202609192126</sparkle:version>
