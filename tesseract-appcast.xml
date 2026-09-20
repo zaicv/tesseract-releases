@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.10.0</title>
+      <pubDate>Sat, 19 Sep 2026 21:29:28 -0500</pubDate>
+      <sparkle:version>202609192126</sparkle:version>
+      <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>New Pipelines tab: every agent's fabricators in one place, pick one and watch it run live, with its own square glyph distinct from an agent's orb.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.10.0/Tesseract-1.10.0.dmg" length="17313414" type="application/octet-stream" sparkle:edSignature="4JAGvJTZN0lJ/rMKAYIKYBtiznFXzCvvzGlrWUo3nP5zw9CWUObsSQ/d79Q5l60zDVqGD7nFa5rdwW1h07goCg==" />
+    </item>
+    <item>
       <title>Version 1.9.0</title>
       <pubDate>Sat, 19 Sep 2026 20:35:18 -0500</pubDate>
       <sparkle:version>202609192032</sparkle:version>
