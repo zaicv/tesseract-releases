@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.13.0</title>
+      <pubDate>Sun, 20 Sep 2026 16:20:36 -0500</pubDate>
+      <sparkle:version>202609201616</sparkle:version>
+      <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Real fix for the gray titlebar (was being re-asserted by SwiftUI's own toolbar management every update, not just failing once). Corner panel no longer flickers on the way to a click, and its rows get a hover outline. Pipelines retired as a top-level tab — the Fabricators telemetry work that replaces it is next.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.13.0/Tesseract-1.13.0.dmg" length="17406245" type="application/octet-stream" sparkle:edSignature="E/RHU7V4HC6yy7EfR+gn+cWRUC65rQRid2LYxb46JJAmozW237Vxqg4QcSvfoe8eNtCeTI065hyUSX0t18nMDQ==" />
+    </item>
+    <item>
       <title>Version 1.12.2</title>
       <pubDate>Sun, 20 Sep 2026 15:28:09 -0500</pubDate>
       <sparkle:version>202609201524</sparkle:version>
