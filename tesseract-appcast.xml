@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.9.0</title>
+      <pubDate>Sat, 19 Sep 2026 20:35:18 -0500</pubDate>
+      <sparkle:version>202609192032</sparkle:version>
+      <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Attach files to a message — images, PDFs, anything — and a file an agent delivers shows up as a download card. The orb and its activity line now track a running thread everywhere, not just the disc pipeline.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.9.0/Tesseract-1.9.0.dmg" length="17236902" type="application/octet-stream" sparkle:edSignature="qOnMOCXq0CokPwrj94AVC7+B3dXZpd763pgLi7tRZKPB0Pn47LPyGE8N+mXD+bo2JqesAvBg8FAZnHVnmUPyAg==" />
+    </item>
+    <item>
       <title>Version 1.8.0</title>
       <pubDate>Sat, 19 Sep 2026 12:10:48 -0500</pubDate>
       <sparkle:version>202609191207</sparkle:version>
