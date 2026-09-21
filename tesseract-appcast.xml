@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.15.0</title>
+      <pubDate>Sun, 20 Sep 2026 21:14:20 -0500</pubDate>
+      <sparkle:version>202609202111</sparkle:version>
+      <sparkle:shortVersionString>1.15.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>FabSight: every fabricator's run, seen. The Fabricators tab now runs on it — the running step glows with a progress bar, finished steps check off, failures go red — and a floating status card leads with the run itself (status, steps done, elapsed, why it failed). God State gets a Fabricators row per agent. Needs Celestia 1.13.0.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.15.0/Tesseract-1.15.0.dmg" length="17596032" type="application/octet-stream" sparkle:edSignature="x3TxEOVIxoXEpAtTOMn/woapsjEWPSBRsyyf3iIJOPjEFCPLrKVYnCCpxgiPCcizqAeKNHiB+szuMrBWu/eTAQ==" />
+    </item>
+    <item>
       <title>Version 1.14.1</title>
       <pubDate>Sun, 20 Sep 2026 20:22:34 -0500</pubDate>
       <sparkle:version>202609202014</sparkle:version>
