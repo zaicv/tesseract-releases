@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.14.1</title>
+      <pubDate>Sun, 20 Sep 2026 20:22:34 -0500</pubDate>
+      <sparkle:version>202609202014</sparkle:version>
+      <sparkle:shortVersionString>1.14.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Another go at the gray titlebar: the window now re-applies its transparent settings on its own events (a stateless SwiftUI wrapper could never re-run), and the title and toolbar backdrop are removed with the native modifiers.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.14.1/Tesseract-1.14.1.dmg" length="17472809" type="application/octet-stream" sparkle:edSignature="WsV0LOje8Pwfg2ZkdpZMlVgjRgHcVpuq8p7hOg+s9DUCUJm3oC8QsqBlXqzQutGdflaOxlxOZqz1sVVvRP+VCQ==" />
+    </item>
+    <item>
       <title>Version 1.14.0</title>
       <pubDate>Sun, 20 Sep 2026 16:27:03 -0500</pubDate>
       <sparkle:version>202609201623</sparkle:version>
