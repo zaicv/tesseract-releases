@@ -6,12 +6,12 @@
     <language>en</language>
     <item>
       <title>Version 1.16.0</title>
-      <pubDate>Mon, 21 Sep 2026 14:13:11 -0500</pubDate>
-      <sparkle:version>202609211405</sparkle:version>
+      <pubDate>Tue, 22 Sep 2026 08:31:05 -0500</pubDate>
+      <sparkle:version>202609220813</sparkle:version>
       <sparkle:shortVersionString>1.16.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-      <description>Fabricator views show items (3 of 12 titles, each with its own bar) and how much of the tool's output its FabSight lens reads.</description>
-      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.16.0/Tesseract-1.16.0.dmg" length="17651494" type="application/octet-stream" sparkle:edSignature="GpMS8goR1uJxOPmLG62ByGf75j351MCaunuI2fx2amXKzxRWGOIloKN+1Y0rbLIx6cjYRCYpiiLT5mOv0DmhDQ==" />
+      <description>&lt;notes&gt;</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.16.0/Tesseract-1.16.0.dmg" length="17683303" type="application/octet-stream" sparkle:edSignature="in7Unemglu7k/GGGKGWaPvH2007TIrQBdjfTbzIRDo6hdPFaWNu1KL7h5+i5QD2XHMNDXHsGvED6cA2SIzWfBA==" />
     </item>
     <item>
       <title>Version 1.15.0</title>
