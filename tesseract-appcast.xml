@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.17.0</title>
+      <pubDate>Sat, 26 Sep 2026 22:04:16 -0500</pubDate>
+      <sparkle:version>202609262200</sparkle:version>
+      <sparkle:shortVersionString>1.17.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Stack page: every part of the system as a tree of pulsing lights — Celestia, the server, LaunchAgents, services, Supabase, release channels and every client, this Mac's connection, token and event stream included — with restart buttons. Streams renew their Supabase token before every connection (messages no longer spin forever on an expired token), and a refused thread says why. iPhone client, per-thread model/effort/billing in Interface.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.17.0/Tesseract-1.17.0.dmg" length="17830930" type="application/octet-stream" sparkle:edSignature="X0F/igzP8A3QjcgMr25BoC603dwXbe8UVzHCB8y9692O9WgaWiQVB1dNUYHQiRYAiEocbTbFOEOfwa879L2UCQ==" />
+    </item>
+    <item>
       <title>Version 1.16.0</title>
       <pubDate>Mon, 21 Sep 2026 14:13:11 -0500</pubDate>
       <sparkle:version>202609211405</sparkle:version>
