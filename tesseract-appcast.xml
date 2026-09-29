@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.20.0</title>
+      <pubDate>Tue, 29 Sep 2026 12:19:34 -0500</pubDate>
+      <sparkle:version>202609291215</sparkle:version>
+      <sparkle:shortVersionString>1.20.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Friday arrives: one orb over three deterministic engines. Friday's Home is a Unified Today (events, due and overdue tasks, mail that needs you, email → task → block threads); Hermes (read-only Gmail with live reading and local drafts), Apollo (PhoebeOS Rays, ported) and Meridian (the Meridian calendar, ported) each get a tab. Every agent's Home shows its brain — Claude or a deterministic engine. Connections gains MCP Connectors: per-tool Disable / Always ask / Allow, the approvals queue, Gmail read-only connect, and a Discover catalog from the official MCP registry. Needs Celestia 1.16.0.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.20.0/Tesseract-1.20.0.dmg" length="20081859" type="application/octet-stream" sparkle:edSignature="m65WP8XFDZozhnXVnP3s93ff+VSnyaD3KpLiJ4E89vJ6OHncnOq25pUQGufwFrhBQ1uI2Rgf591wExzf3XA5Cw==" />
+    </item>
+    <item>
       <title>Version 1.19.0</title>
       <pubDate>Tue, 29 Sep 2026 00:38:15 -0500</pubDate>
       <sparkle:version>202609290034</sparkle:version>
