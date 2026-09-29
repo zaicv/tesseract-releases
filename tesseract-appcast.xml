@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.19.0</title>
+      <pubDate>Tue, 29 Sep 2026 00:38:15 -0500</pubDate>
+      <sparkle:version>202609290034</sparkle:version>
+      <sparkle:shortVersionString>1.19.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Dashboards: every agent workspace has a Dashboard tab. Agents build dashboards from a fixed set of blocks (charts, tables, stats, notes), and every number comes from a named read-only query over the warehouse, never typed by a model. Built-in dashboards for agent activity, the home Mac, Saga, Stasi, Moneta and Alaura. Tesseract publishes a tesseract-dashboard skill so agents know how to make their own.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.19.0/Tesseract-1.19.0.dmg" length="18493915" type="application/octet-stream" sparkle:edSignature="g1qM7wpV0Nb0aTdprzA0G8DKjsgALxX8vj/9K0L6FYCuehpK+qSybo021XnoVtp/msKO1NU1qlIZhFCunPYMBA==" />
+    </item>
+    <item>
       <title>Version 1.18.0</title>
       <pubDate>Mon, 28 Sep 2026 23:18:12 -0500</pubDate>
       <sparkle:version>202609282312</sparkle:version>
