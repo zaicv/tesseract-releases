@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.18.0</title>
+      <pubDate>Mon, 28 Sep 2026 23:18:12 -0500</pubDate>
+      <sparkle:version>202609282312</sparkle:version>
+      <sparkle:shortVersionString>1.18.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Canon Files: every agent's ground-truth files, in its workspace beside Home and Interface — its original records (locked), a claims ledger that opens each fact beside the record it quotes, what the agent built, its reference docs, and any vault file you attach. Gallery and list views with PDF, image and note previews; copy, export, lock and unlock. Also: agents new to the roster are announced with a way to customize them, and the Surface catalog, resolver and compact block cards.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.18.0/Tesseract-1.18.0.dmg" length="18099903" type="application/octet-stream" sparkle:edSignature="dUGpFC8kpTahfVqL9YCKrL0AoJenTGCAoAIH+KhXjkIflyS9KMdbeze8aOJ4BBVjCtchuqStnSfixEgMGCvRBw==" />
+    </item>
+    <item>
       <title>Version 1.17.0</title>
       <pubDate>Sat, 26 Sep 2026 22:04:16 -0500</pubDate>
       <sparkle:version>202609262200</sparkle:version>
