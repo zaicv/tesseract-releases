@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.21.0</title>
+      <pubDate>Wed, 30 Sep 2026 08:57:53 -0500</pubDate>
+      <sparkle:version>202609300853</sparkle:version>
+      <sparkle:shortVersionString>1.21.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Moneta's Money tab (Drachmaos ported onto the local ledger: bills, due dates, paid marks, pay links). Friday's engines as orbs under her orb on Home. Brain badge moved under the orb. New Window (Shift-Cmd-N) for multiple Tesseract windows.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.21.0/Tesseract-1.21.0.dmg" length="20508565" type="application/octet-stream" sparkle:edSignature="2J8QZDSUes0y6O63d4Yfp5KdYiPcMrguc8PIEklY0y7Tv8vYWP3RnsXU2v+fao7P7DOWfqLuAnku9os9QoA1Ag==" />
+    </item>
+    <item>
       <title>Version 1.20.0</title>
       <pubDate>Tue, 29 Sep 2026 12:19:34 -0500</pubDate>
       <sparkle:version>202609291215</sparkle:version>
