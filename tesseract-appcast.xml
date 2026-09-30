@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.23.0</title>
+      <pubDate>Wed, 30 Sep 2026 14:12:03 -0500</pubDate>
+      <sparkle:version>202609301407</sparkle:version>
+      <sparkle:shortVersionString>1.23.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Money tab round two: the Dashboard fits the window with grouped, clearly-dated bills; one-offs can be Timely; accounts can be income sources with live balances; transactions are colour-coded and can be grouped and sorted; your own categories with default and per-month Live Off splits; month colours; a vendor registry with search; and every due date synced both ways with Meridian's Moneta calendar. The corner orb no longer blocks clicks near it.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.23.0/Tesseract-1.23.0.dmg" length="20939791" type="application/octet-stream" sparkle:edSignature="fVb9JOX/ROntpzaGJcfZuMC2j6fMHoWsjdKCXPX5X0QqF7jOCWeHgeqU1I+er0k1X8hq+rzAXtx5CS5UxPjFBw==" />
+    </item>
+    <item>
       <title>Version 1.22.0</title>
       <pubDate>Wed, 30 Sep 2026 11:56:18 -0500</pubDate>
       <sparkle:version>202609301151</sparkle:version>
