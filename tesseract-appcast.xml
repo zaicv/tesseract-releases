@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.27.0</title>
+      <pubDate>Thu, 01 Oct 2026 18:22:52 -0500</pubDate>
+      <sparkle:version>202610011817</sparkle:version>
+      <sparkle:shortVersionString>1.27.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>A dock and a ⌃⌥Tab orb dial for agents, Apps tabs, the brain glow, Home widgets, Mac notifications and a menu-bar status, and the Council morning report.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.27.0/Tesseract-1.27.0.dmg" length="21786041" type="application/octet-stream" sparkle:edSignature="+2mMJkY8J7gaM+Zz/vGe2TadZohSBGKCjdro+3pQWQv8XtxUxn5hTnx8V4XHaelJ8WZvkZRC3urud60+UQ8uCA==" />
+    </item>
+    <item>
       <title>Version 1.26.0</title>
       <pubDate>Thu, 01 Oct 2026 16:10:46 -0500</pubDate>
       <sparkle:version>202610011605</sparkle:version>
