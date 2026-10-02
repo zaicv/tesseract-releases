@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.31.0</title>
+      <pubDate>Fri, 02 Oct 2026 12:21:16 -0500</pubDate>
+      <sparkle:version>202610021215</sparkle:version>
+      <sparkle:shortVersionString>1.31.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Dashboard: PhoebeOS's Planner, Meridian's month, the Glow chart and every agent's domain. Phoebe Mind, Phoebe hands work to Friday, always-on Phoebe, cancel with ✕ or 'never mind'. Alaura's own Today, the sleep dial, the water circle and Energia's goal rings. Agents open on their own tab.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.31.0/Tesseract-1.31.0.dmg" length="23150075" type="application/octet-stream" sparkle:edSignature="gWcrnNCn3264XmJGxA3HgWyJh9IZcrFsgKS0flO5HlAY8TZDVPFqXZHTtJSFEMkTSMPC2HGlV9+K0d1oXygzAQ==" />
+    </item>
+    <item>
       <title>Version 1.30.0</title>
       <pubDate>Fri, 02 Oct 2026 09:02:17 -0500</pubDate>
       <sparkle:version>202610020857</sparkle:version>
