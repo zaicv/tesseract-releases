@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.28.0</title>
+      <pubDate>Thu, 01 Oct 2026 21:45:01 -0500</pubDate>
+      <sparkle:version>202610012140</sparkle:version>
+      <sparkle:shortVersionString>1.28.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Phoebe does things by rule — open Hermes, remind me to pay the rent tomorrow, what's on my planner, undo that — with no model. Toasts for FabSight runs, approvals, replies and the home Mac's health. Dock orbs click; Bills widget; listening chime; calmer orb; Council and Phoebe settings.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.28.0/Tesseract-1.28.0.dmg" length="22052070" type="application/octet-stream" sparkle:edSignature="qkiqr2oBtFe+X9fa/kz99FNQ36GpN8K+yvdGvD1QeCaT6qtOIJ834SMtSs2oOzzG51YPiORiFVmDgMzNVpcjCw==" />
+    </item>
+    <item>
       <title>Version 1.27.0</title>
       <pubDate>Thu, 01 Oct 2026 18:22:52 -0500</pubDate>
       <sparkle:version>202610011817</sparkle:version>
