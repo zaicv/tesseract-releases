@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.30.0</title>
+      <pubDate>Fri, 02 Oct 2026 09:02:17 -0500</pubDate>
+      <sparkle:version>202610020857</sparkle:version>
+      <sparkle:shortVersionString>1.30.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Hold the talk key to talk, double-press for hands-free, press again to send — and the key can be Option on its own. Click the orb to talk. See what you're saying while you say it. The orb keeps its colours. 'Hey Apollo' reaches Friday.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.30.0/Tesseract-1.30.0.dmg" length="22592504" type="application/octet-stream" sparkle:edSignature="8ckhUMjHM/JsXT8jqkB91crrfLC+EIMp7Y12BiHf+dJzfSc5cTCRO9dpHXKAjl3ONRyGaXtSiqmSm93avCd6DA==" />
+    </item>
+    <item>
       <title>Version 1.29.0</title>
       <pubDate>Fri, 02 Oct 2026 07:15:34 -0500</pubDate>
       <sparkle:version>202610020711</sparkle:version>
