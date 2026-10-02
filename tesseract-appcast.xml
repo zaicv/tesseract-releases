@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.29.0</title>
+      <pubDate>Fri, 02 Oct 2026 07:15:34 -0500</pubDate>
+      <sparkle:version>202610020711</sparkle:version>
+      <sparkle:shortVersionString>1.29.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Battery: orbs no longer run flat out — they pace themselves (30 fps idle, 60 while thinking), slow down in the background or Low Power Mode, and stop entirely when nobody can see them; Atelier materials render once per frame per material. Alaura's apps: Akeso (sleep, naps, morning and bedtime checklists), Hydros (water and electrolytes) and Energia (meals, goals, plan, menu, grocery) — PhoebeOS's modules, now engines under her. Alaura joins the Council.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.29.0/Tesseract-1.29.0.dmg" length="22567617" type="application/octet-stream" sparkle:edSignature="xPt+CzImlXJgdBMlygrDa0SjOnwPZ+9MhMLCji+PZ8NMGTN94G9JD5yTcBAZNzun9BAC9kWOQ3zQ2X8Fzy26Cw==" />
+    </item>
+    <item>
       <title>Version 1.28.0</title>
       <pubDate>Thu, 01 Oct 2026 21:45:01 -0500</pubDate>
       <sparkle:version>202610012140</sparkle:version>
