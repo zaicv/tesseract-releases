@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.33.0</title>
+      <pubDate>Sat, 03 Oct 2026 01:38:02 -0500</pubDate>
+      <sparkle:version>202610030132</sparkle:version>
+      <sparkle:shortVersionString>1.33.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Shared groundwork for Tesseract on iPhone: hands-free voice turns, spoken replies from typed messages, and the app catalog shared between Mac and phone.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.33.0/Tesseract-1.33.0.dmg" length="23412832" type="application/octet-stream" sparkle:edSignature="dkMcmQSRZ3EZUi8rKiqYok+KyHjK54ylRJ2Unm24BJ7aC9JcXUsqit4RiEtsyZBytMUg9+LMPr+gKZh1lTRbCA==" />
+    </item>
+    <item>
       <title>Version 1.32.0</title>
       <pubDate>Fri, 02 Oct 2026 14:53:48 -0500</pubDate>
       <sparkle:version>202610021448</sparkle:version>
