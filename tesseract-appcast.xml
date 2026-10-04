@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.34.0</title>
+      <pubDate>Sun, 04 Oct 2026 00:24:18 -0500</pubDate>
+      <sparkle:version>202610040019</sparkle:version>
+      <sparkle:shortVersionString>1.34.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Agent orbits in layers — skills and fabricators ring the orb, MCP connectors ring them, with living lines. Connectors are first-class: connect Notion, PubMed, Linear or any MCP server to an agent, signed in through Supabase.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.34.0/Tesseract-1.34.0.dmg" length="23650455" type="application/octet-stream" sparkle:edSignature="N//hH/j0e6gEz98XY7XII5HDBBhGa6UjFgKE1lDm29+1y4etnJ4mEY4QGVfRHBZWRC+ucELm8qtRMQO/jWMyBw==" />
+    </item>
+    <item>
       <title>Version 1.33.0</title>
       <pubDate>Sat, 03 Oct 2026 01:38:02 -0500</pubDate>
       <sparkle:version>202610030132</sparkle:version>
