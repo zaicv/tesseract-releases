@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.36.0</title>
+      <pubDate>Mon, 05 Oct 2026 00:39:14 -0500</pubDate>
+      <sparkle:version>202610050034</sparkle:version>
+      <sparkle:shortVersionString>1.36.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>The heart in the orb: a core glowing in its heart's colour, click the orb to change it. Settings ▸ Usage for Claude's plan limits, OpenRouter credits and Lite's free allowances. Canonical colours: Claude orange, Frontier yellow, Lite green. Much cooler: idle orbs paced by size, hidden halves and Aether's background still. Aether now sits left of Tesseract.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.36.0/Tesseract-1.36.0.dmg" length="24678188" type="application/octet-stream" sparkle:edSignature="eGexTKlnlVdMvIqZWKYyEH76q5t7/Rz2gRmd2GFkH0xk8ioXJvjKwmXlhbPRL/umyJORO7VkMcO0rA3KnTmzBg==" />
+    </item>
+    <item>
       <title>Version 1.35.0</title>
       <pubDate>Sun, 04 Oct 2026 20:01:09 -0500</pubDate>
       <sparkle:version>202610041956</sparkle:version>
