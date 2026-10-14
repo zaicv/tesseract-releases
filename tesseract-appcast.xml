@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.37.0</title>
+      <pubDate>Wed, 14 Oct 2026 10:02:10 -0500</pubDate>
+      <sparkle:version>202610140957</sparkle:version>
+      <sparkle:shortVersionString>1.37.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Tasks: subtasks under each task, drag to reorder, move between lists or into the planner, instant checks, cleaner task editor.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.37.0/Tesseract-1.37.0.dmg" length="24790470" type="application/octet-stream" sparkle:edSignature="99zSVuwW87OArJu9iy6xz3o2CUjup70TurM3y/Zy/EJQ6NIFbhcwjUKbVDTsp1U0s0UAOeE9CUFpWeW+ljx1Bw==" />
+    </item>
+    <item>
       <title>Version 1.36.0</title>
       <pubDate>Mon, 05 Oct 2026 00:39:14 -0500</pubDate>
       <sparkle:version>202610050034</sparkle:version>
