@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.38.0</title>
+      <pubDate>Thu, 15 Oct 2026 12:26:32 -0500</pubDate>
+      <sparkle:version>202610151221</sparkle:version>
+      <sparkle:shortVersionString>1.38.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Apollo's dates now live on Meridian: tasks and deadlines mirror to an Apollo calendar both ways. Deadline, Someday and reminders arrive on the task model.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.38.0/Tesseract-1.38.0.dmg" length="24793021" type="application/octet-stream" sparkle:edSignature="lxuh14JeH4thLFRbZGPMnRU507bZznjbUVwraKjxLMkVYLJgJTGglVVA1J2c8G1dr6LLWOw5K0FSL4EIXhWFDw==" />
+    </item>
+    <item>
       <title>Version 1.37.0</title>
       <pubDate>Wed, 14 Oct 2026 10:02:10 -0500</pubDate>
       <sparkle:version>202610140957</sparkle:version>
