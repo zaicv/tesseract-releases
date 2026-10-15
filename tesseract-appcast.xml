@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.42.0</title>
+      <pubDate>Thu, 15 Oct 2026 13:17:11 -0500</pubDate>
+      <sparkle:version>202610151312</sparkle:version>
+      <sparkle:shortVersionString>1.42.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Apollo feels instant: edits land in place without a reload, cards no longer jump or reflow, and a refused completion comes back.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.42.0/Tesseract-1.42.0.dmg" length="24889072" type="application/octet-stream" sparkle:edSignature="R2dfjOYyqmruUDBQy2FYSKPftrO0ZO+4/gslPX64tAGKhypvPLs2uMGEsMFr26IBWqgkZsoATKQBGwfXLvSPBg==" />
+    </item>
+    <item>
       <title>Version 1.41.0</title>
       <pubDate>Thu, 15 Oct 2026 13:05:54 -0500</pubDate>
       <sparkle:version>202610151301</sparkle:version>
