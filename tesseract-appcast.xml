@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.43.0</title>
+      <pubDate>Thu, 15 Oct 2026 15:50:00 -0500</pubDate>
+      <sparkle:version>202610151544</sparkle:version>
+      <sparkle:shortVersionString>1.43.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Talk to Phoebe from the iPhone Action Button; Phoebe understands everyday names (sleep, water, food, spending, to do list) and finds places on-device for free; new Apps tab: agent domains as circles on OLED black, zoom in, set any app's picture (saved for every client); app chips on the Dashboard's agent cards; Apollo edits are instant through an offline outbox.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.43.0/Tesseract-1.43.0.dmg" length="25091525" type="application/octet-stream" sparkle:edSignature="KmdsDdDDn9GpjpO9SGOWNSqydd7DrrgDdK5ZbYcaiptAg7UD6DOdrRWgKBd88rwaG8e2ah95jifNnmXmHCTBDw==" />
+    </item>
+    <item>
       <title>Version 1.42.0</title>
       <pubDate>Thu, 15 Oct 2026 13:17:11 -0500</pubDate>
       <sparkle:version>202610151312</sparkle:version>
