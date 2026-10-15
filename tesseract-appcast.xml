@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.39.0</title>
+      <pubDate>Thu, 15 Oct 2026 12:41:32 -0500</pubDate>
+      <sparkle:version>202610151236</sparkle:version>
+      <sparkle:shortVersionString>1.39.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Apollo: Actions' checklist (tinted rows, ring fills white, n/m progress) replaces the white subtask pills; the shared Actions kit lands for both Mac and iPhone.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.39.0/Tesseract-1.39.0.dmg" length="24815732" type="application/octet-stream" sparkle:edSignature="tKNPCWQKKZ7cd+kWeM4HuojHQicAcL6z6+dT218nrw8eWqjLoioHlI6LFx2ttvO2vCuu1HjZHTGEUZx0ZnhYBQ==" />
+    </item>
+    <item>
       <title>Version 1.38.0</title>
       <pubDate>Thu, 15 Oct 2026 12:26:32 -0500</pubDate>
       <sparkle:version>202610151221</sparkle:version>
