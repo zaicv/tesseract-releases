@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.40.0</title>
+      <pubDate>Thu, 15 Oct 2026 12:54:16 -0500</pubDate>
+      <sparkle:version>202610151249</sparkle:version>
+      <sparkle:shortVersionString>1.40.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Apollo on the Mac looks and works like Actions: Schedule column (Structured · Free), tall list columns, a floating action card, drag to schedule, move and reorder.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.40.0/Tesseract-1.40.0.dmg" length="24876808" type="application/octet-stream" sparkle:edSignature="7o6jgFtkRKbJy61xa1oLr46kNNgDTLrum12T2N+h9bb/AoLqiqgWY3SqE28PnCeXrSvEHcVw9cClT315VBrMCg==" />
+    </item>
+    <item>
       <title>Version 1.39.0</title>
       <pubDate>Thu, 15 Oct 2026 12:41:32 -0500</pubDate>
       <sparkle:version>202610151236</sparkle:version>
