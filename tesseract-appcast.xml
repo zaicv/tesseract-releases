@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.49.0</title>
+      <pubDate>Sat, 17 Oct 2026 18:04:28 -0500</pubDate>
+      <sparkle:version>202610171754</sparkle:version>
+      <sparkle:shortVersionString>1.49.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Meridian on a client: the month grid no longer falls back to the top of its window after a jump, and it reads only the months near where you are instead of every month it lays out. Probe gains app.open so a session can open the screen it is testing.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.49.0/Tesseract-1.49.0.dmg" length="25494632" type="application/octet-stream" sparkle:edSignature="sziTvoRJ4lS4hFd9LjaD2eMK6FtehV4Z82YKF9adafhracF1Zn2nKLhh2q20Rq6Xw86QtEpsbChMGTseklmBCg==" />
+    </item>
+    <item>
       <title>Version 1.48.0</title>
       <pubDate>Sat, 17 Oct 2026 15:04:08 -0500</pubDate>
       <sparkle:version>202610171458</sparkle:version>
