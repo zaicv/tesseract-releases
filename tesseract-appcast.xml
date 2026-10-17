@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.44.0</title>
+      <pubDate>Fri, 16 Oct 2026 20:33:13 -0500</pubDate>
+      <sparkle:version>202610162023</sparkle:version>
+      <sparkle:shortVersionString>1.44.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Meridian: actions are Apollo's tasks (click opens the card with checklist pills, drag to reorder or drop on a day, instant offline-safe edits); new iPhone Meridian (Week, Day, Month, Year, Search, event sheet, customization); offline and error banners.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.44.0/Tesseract-1.44.0.dmg" length="25129718" type="application/octet-stream" sparkle:edSignature="uI7QxD7XnOI01m+xWDGiW6vS4PseQnyMhgI3BaaFxD8s0gGFyX/vUNg2sv2i45btaxXyiykpY+sWtkLGMWthCw==" />
+    </item>
+    <item>
       <title>Version 1.43.0</title>
       <pubDate>Thu, 15 Oct 2026 15:50:00 -0500</pubDate>
       <sparkle:version>202610151544</sparkle:version>
