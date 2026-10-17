@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.47.0</title>
+      <pubDate>Sat, 17 Oct 2026 11:58:19 -0500</pubDate>
+      <sparkle:version>202610171150</sparkle:version>
+      <sparkle:shortVersionString>1.47.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Meridian on other Macs: month and year navigation land where you asked (no more jumping to 2024 or 2028), calendar reads are batched, a client that starts before its connection is ready recovers and says when it is offline, and events drag between days in every view.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.47.0/Tesseract-1.47.0.dmg" length="25313921" type="application/octet-stream" sparkle:edSignature="VQ6XTmmdogHBnOZ7FDLyOOs8VKaMHJT7lRh6IXLPlhU13RVsbgCxifs46pzDk2updRHZwS8Xq7Wu+KH1TTezBA==" />
+    </item>
+    <item>
       <title>Version 1.46.0</title>
       <pubDate>Sat, 17 Oct 2026 01:56:15 -0500</pubDate>
       <sparkle:version>202610170151</sparkle:version>
