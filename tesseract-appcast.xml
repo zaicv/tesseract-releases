@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.48.0</title>
+      <pubDate>Sat, 17 Oct 2026 15:04:08 -0500</pubDate>
+      <sparkle:version>202610171458</sparkle:version>
+      <sparkle:shortVersionString>1.48.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Probe: Settings &gt; Probe lets a Claude session see and drive this app on this device (state, the screen as text, taps, scrolls, scenarios, a slow-network simulator), so features are tested on real devices without screenshots. Meridian narrates its navigation and reads into the trace.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.48.0/Tesseract-1.48.0.dmg" length="25515367" type="application/octet-stream" sparkle:edSignature="KB1XZnmIDUkImtRXeQ9ZM1h/uuXHj0fj4SaFYjrtip0j4v1geGLihxzo5TqhxisXBOpwQBtcRsbuD1PgTyn2CA==" />
+    </item>
+    <item>
       <title>Version 1.47.0</title>
       <pubDate>Sat, 17 Oct 2026 11:58:19 -0500</pubDate>
       <sparkle:version>202610171150</sparkle:version>
