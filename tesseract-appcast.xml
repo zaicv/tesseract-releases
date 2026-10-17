@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.45.0</title>
+      <pubDate>Fri, 16 Oct 2026 21:31:10 -0500</pubDate>
+      <sparkle:version>202610162122</sparkle:version>
+      <sparkle:shortVersionString>1.45.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Meridian: events come straight from EventKit (live, no blank flashes); real popovers for the editor, search, inbox, themes and the N-more list; the day panel can be put away; month and year jumps land instead of scrolling past every month; the + appears in place of the day number; clicking + no longer beach-balls; real weather forecast; iPhone uses the system event editor.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.45.0/Tesseract-1.45.0.dmg" length="25136667" type="application/octet-stream" sparkle:edSignature="KHUzilImef74xDpXmiIc1zgckUQWcGMKWqYWsL3Kp8ERnAjQ4osZXBtAcn0lC+MuQCs1STNUEo9vXpvpmCLoBg==" />
+    </item>
+    <item>
       <title>Version 1.44.0</title>
       <pubDate>Fri, 16 Oct 2026 20:33:13 -0500</pubDate>
       <sparkle:version>202610162023</sparkle:version>
