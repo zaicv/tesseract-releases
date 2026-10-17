@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.46.0</title>
+      <pubDate>Sat, 17 Oct 2026 01:56:15 -0500</pubDate>
+      <sparkle:version>202610170151</sparkle:version>
+      <sparkle:shortVersionString>1.46.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Meridian at Timepage quality: one calendar from the home Mac (instant, offline-safe, never duplicated); click any event or task for its card; a day click slides the panel in over a dimmed grid; right-click a day for a new event, a new Apollo task, or to schedule one; smoother grid and month jumps; real weather; today's month stays the white block; the dock gets an agents/apps chip and the Apps button is gone; choosing a picture for an app works; iPhone gets the same card, menus and forecast.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.46.0/Tesseract-1.46.0.dmg" length="25297420" type="application/octet-stream" sparkle:edSignature="cFEPhTuy9stQ227Z4Dskq+a9DVIBqxA0wHR9Duqyc5iNT5db+YyIQwFeou0oKQ7DiytmGvQGNaH9j4iOoTKNCQ==" />
+    </item>
+    <item>
       <title>Version 1.45.0</title>
       <pubDate>Fri, 16 Oct 2026 21:31:10 -0500</pubDate>
       <sparkle:version>202610162122</sparkle:version>
