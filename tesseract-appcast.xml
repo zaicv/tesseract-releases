@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.50.0</title>
+      <pubDate>Sun, 18 Oct 2026 10:38:14 -0500</pubDate>
+      <sparkle:version>202610181030</sparkle:version>
+      <sparkle:shortVersionString>1.50.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Talk to Phoebe like a person: an open mic, instant answers, talk over her, agents work in the background and report back.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.50.0/Tesseract-1.50.0.dmg" length="55866438" type="application/octet-stream" sparkle:edSignature="lk5UxBi5nKKbQuYji0CI7GUaSFweA3SKmnFRRMRF/JWqD/KhBaTOi11W+xzXN6S9ClVMSLu1Lz+py9xr+8TFBQ==" />
+    </item>
+    <item>
       <title>Version 1.49.0</title>
       <pubDate>Sat, 17 Oct 2026 18:04:28 -0500</pubDate>
       <sparkle:version>202610171754</sparkle:version>
