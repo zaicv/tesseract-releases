@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.53.0</title>
+      <pubDate>Sun, 18 Oct 2026 17:52:32 -0500</pubDate>
+      <sparkle:version>202610181746</sparkle:version>
+      <sparkle:shortVersionString>1.53.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Voice: echo cancellation now starts, so she stops hearing herself.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.53.0/Tesseract-1.53.0.dmg" length="55876984" type="application/octet-stream" sparkle:edSignature="cxUDIF0SonkWR2Z5gHIXZCgeUpXlSkppNLuWClr54re5mZYyNgf2CmdqJfpDO0Bos3hbGMdZsshv6yeo0nYmAA==" />
+    </item>
+    <item>
       <title>Version 1.52.0</title>
       <pubDate>Sun, 18 Oct 2026 16:40:43 -0500</pubDate>
       <sparkle:version>202610181633</sparkle:version>
