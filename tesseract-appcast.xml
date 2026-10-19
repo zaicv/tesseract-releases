@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.55.0</title>
+      <pubDate>Mon, 19 Oct 2026 12:27:37 -0500</pubDate>
+      <sparkle:version>202610191217</sparkle:version>
+      <sparkle:shortVersionString>1.55.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>iPhone: every app is a real app. Apps open out of their icon on the Apps page (now the second home page) and fill the whole screen with nothing of Tesseract's around them. A four-finger pinch takes you home; an arc out of the bottom-right corner brings PhoebeOS's dial and a switcher of your live apps. Apps stay where you left them. Go Home shortcut for the Action Button.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.55.0/Tesseract-1.55.0.dmg" length="55878266" type="application/octet-stream" sparkle:edSignature="f+6zBi4Xf+xLY/AAUjkzSTQVPiFUTveUSTza5aEMHBa9GThF0D/B2vzTOLQnvAPyiIp0CaZ9DdltHg6SN5jcAA==" />
+    </item>
+    <item>
       <title>Version 1.54.0</title>
       <pubDate>Sun, 18 Oct 2026 18:12:29 -0500</pubDate>
       <sparkle:version>202610181806</sparkle:version>
