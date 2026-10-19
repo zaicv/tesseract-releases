@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.56.0</title>
+      <pubDate>Mon, 19 Oct 2026 13:13:07 -0500</pubDate>
+      <sparkle:version>202610191306</sparkle:version>
+      <sparkle:shortVersionString>1.56.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>iPhone apps: real tab bars (swipe between tabs), Apollo's list cards snap one at a time, the dial opens with a thumb arcing from the right edge left and down, sheets tinted with each app's colour, and opening one app from inside another now lands in it.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.56.0/Tesseract-1.56.0.dmg" length="55878234" type="application/octet-stream" sparkle:edSignature="EuGZg4Wz//VE5f/i6LJN82x9fxHQFFuNu4Wrl2yIa9MZTN3ZMBXmVmpYjhIPItolUWIfh7sIOaCG5Qb9ZwlIDQ==" />
+    </item>
+    <item>
       <title>Version 1.55.0</title>
       <pubDate>Mon, 19 Oct 2026 12:27:37 -0500</pubDate>
       <sparkle:version>202610191217</sparkle:version>
