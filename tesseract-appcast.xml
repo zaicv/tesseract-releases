@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.58.0</title>
+      <pubDate>Tue, 20 Oct 2026 08:12:12 -0500</pubDate>
+      <sparkle:version>202610200806</sparkle:version>
+      <sparkle:shortVersionString>1.58.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Spectra: Saga's second app — a Plex client on iPhone and Mac. Plays your real files (direct play, Plex HLS fallback), search, resume, audio/subtitle/quality choices, offline downloads, Who's watching, Phoebe can play things, and a Just added by Saga row.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.58.0/Tesseract-1.58.0.dmg" length="56754821" type="application/octet-stream" sparkle:edSignature="iNJqii6EN6hrPRuwDcRV5+rGk0/I73TJnTzkjb8Ng/Vl5OPwZ3Nusi5Mpuz2HByANDQ9Cy+GhO10r8OybAJtCQ==" />
+    </item>
+    <item>
       <title>Version 1.57.0</title>
       <pubDate>Mon, 19 Oct 2026 22:31:58 -0500</pubDate>
       <sparkle:version>202610192225</sparkle:version>
