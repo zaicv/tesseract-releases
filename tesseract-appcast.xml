@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.60.0</title>
+      <pubDate>Tue, 20 Oct 2026 14:16:01 -0500</pubDate>
+      <sparkle:version>202610201403</sparkle:version>
+      <sparkle:shortVersionString>1.60.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>The heart name under an agent's orb is a dropdown: pick Claude or an Arc-Code heart right there</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.60.0/Tesseract-1.60.0.dmg" length="56792158" type="application/octet-stream" sparkle:edSignature="0t65kzq5/toy9uzYjLMy4HkiPlnltu7yhsljH47YAJvltdbX1GkAyq8nlDuoNakpuArnZ8zzDrk2SWJUYMJyBA==" />
+    </item>
+    <item>
       <title>Version 1.59.0</title>
       <pubDate>Tue, 20 Oct 2026 13:34:27 -0500</pubDate>
       <sparkle:version>202610201326</sparkle:version>
