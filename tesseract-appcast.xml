@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.57.0</title>
+      <pubDate>Mon, 19 Oct 2026 22:31:58 -0500</pubDate>
+      <sparkle:version>202610192225</sparkle:version>
+      <sparkle:shortVersionString>1.57.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Split View: View ▸ Split Right (⌘\) puts two live Tesseracts side by side in one window — drag the notch to resize, double-click for halves, drag a pane off the edge to close it. Drag and drop between panes and windows: an Apollo task onto a Meridian day schedules it, a canon file onto another agent's chat references it. File ▸ New Window now opens a truly separate window. Smoother everywhere: orbs no longer stall the app waiting on the GPU.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.57.0/Tesseract-1.57.0.dmg" length="56058701" type="application/octet-stream" sparkle:edSignature="yoMBtOVthVnTSF8Viz99jCfQN33tbuOsXCCdyk6LDMJSDfPCjGLGAAZB5igHtm3lcmE0zxYhhS3RppJ/dNStDQ==" />
+    </item>
+    <item>
       <title>Version 1.56.0</title>
       <pubDate>Mon, 19 Oct 2026 13:13:07 -0500</pubDate>
       <sparkle:version>202610191306</sparkle:version>
