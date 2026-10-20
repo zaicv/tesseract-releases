@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.59.0</title>
+      <pubDate>Tue, 20 Oct 2026 13:34:27 -0500</pubDate>
+      <sparkle:version>202610201326</sparkle:version>
+      <sparkle:shortVersionString>1.59.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Engine writes Phoebe makes in Aether show as a receipt in the owning agent's colour, with Undo.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.59.0/Tesseract-1.59.0.dmg" length="56784031" type="application/octet-stream" sparkle:edSignature="SXNFKO5xp0GhwlWjlZEFbsB1RDcoXIJg5DmZXX+ZpPMg9LyaIKP65Zypg+7QBLULDP+iBtBvJ+9McysKWrtuCg==" />
+    </item>
+    <item>
       <title>Version 1.58.0</title>
       <pubDate>Tue, 20 Oct 2026 08:12:12 -0500</pubDate>
       <sparkle:version>202610200806</sparkle:version>
