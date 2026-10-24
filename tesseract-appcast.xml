@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.62.0</title>
+      <pubDate>Sat, 24 Oct 2026 15:39:41 -0500</pubDate>
+      <sparkle:version>202610241533</sparkle:version>
+      <sparkle:shortVersionString>1.62.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Cerebro: opaque background, approval card sized to its command, internal commands hidden from the / menu.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.62.0/Tesseract-1.62.0.dmg" length="57077547" type="application/octet-stream" sparkle:edSignature="jAFUiGWOInvkyHTGCg/A7o0HrnoOai/1K9WobQdvJBBr/jGFCX4GLH0uwX+enph8ERuJ2tC/HJNzmgct9e8NAw==" />
+    </item>
+    <item>
       <title>Version 1.61.0</title>
       <pubDate>Sat, 24 Oct 2026 14:25:33 -0500</pubDate>
       <sparkle:version>202610241419</sparkle:version>
