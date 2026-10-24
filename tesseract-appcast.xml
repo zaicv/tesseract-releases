@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.61.0</title>
+      <pubDate>Sat, 24 Oct 2026 14:25:33 -0500</pubDate>
+      <sparkle:version>202610241419</sparkle:version>
+      <sparkle:shortVersionString>1.61.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Cerebro (⌃⌘3): talk to any agent in its workspace or any folder, Claude Code style — approval cards for tool calls, Retry/Continue in place, model/effort/mode mid-thread, a context ring with every heart's usage, / skills and @ files. iPhone answers approvals.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.61.0/Tesseract-1.61.0.dmg" length="57074048" type="application/octet-stream" sparkle:edSignature="Qa0l9KhG2t+FpJhkXZcxb5cgHD3lOPutUVZ9wYJyqWnOECowATDv9NFC4w1pevgVBscDuly/RVMohOsN4EYFCA==" />
+    </item>
+    <item>
       <title>Version 1.60.0</title>
       <pubDate>Tue, 20 Oct 2026 14:16:01 -0500</pubDate>
       <sparkle:version>202610201403</sparkle:version>
