@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.67.0</title>
+      <pubDate>Sat, 24 Oct 2026 21:06:04 -0500</pubDate>
+      <sparkle:version>202610242055</sparkle:version>
+      <sparkle:shortVersionString>1.67.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Diagnostics for click-to-preview of produced files; everything from 1.66 (no freeze on the macOS privacy prompt).</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.67.0/Tesseract-1.67.0.dmg" length="58020563" type="application/octet-stream" sparkle:edSignature="f7FrzqVl1lGevgcPfFm32wpwleBXS8ouwE3Gglj4NkvqZ8cZ4uKtPLNzUMrTRSZ3thvezSksOquQRp+q3LrxCw==" />
+    </item>
+    <item>
       <title>Version 1.66.0</title>
       <pubDate>Sat, 24 Oct 2026 20:46:33 -0500</pubDate>
       <sparkle:version>202610242035</sparkle:version>
