@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.68.0</title>
+      <pubDate>Sat, 24 Oct 2026 21:21:19 -0500</pubDate>
+      <sparkle:version>202610242112</sparkle:version>
+      <sparkle:shortVersionString>1.68.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Diagnostics: the thread stream traces events it cannot decode, and Probe reports how many events of each kind a conversation received.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.68.0/Tesseract-1.68.0.dmg" length="58024059" type="application/octet-stream" sparkle:edSignature="g6CQj1cvUi4k6GelQGa+DDy9/HLM9HRq/DacVf5dVsaFKm3QlylVkO/hPY8cWXsXbo3NDbe+aTugb30ZnQLCBg==" />
+    </item>
+    <item>
       <title>Version 1.67.0</title>
       <pubDate>Sat, 24 Oct 2026 21:06:04 -0500</pubDate>
       <sparkle:version>202610242055</sparkle:version>
