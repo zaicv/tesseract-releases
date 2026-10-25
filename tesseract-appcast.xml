@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.64.0</title>
+      <pubDate>Sat, 24 Oct 2026 19:55:33 -0500</pubDate>
+      <sparkle:version>202610241946</sparkle:version>
+      <sparkle:shortVersionString>1.64.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Hidden halves are hidden from VoiceOver (and from Probe's tree). Everything from 1.63.0: questions and plans, inspector, tool cards, Cmd-K, Shift-Tab modes, find, export, Allow/Deny notifications, Skills, subagents, the new-thread wizard.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.64.0/Tesseract-1.64.0.dmg" length="57985073" type="application/octet-stream" sparkle:edSignature="uTfdN+uyA0z65lOTo0BzON+LVdCihtzcN+RUbfDdzRW51MUiKj7BsMPKVP5nMLbzMfG8M5ak8Re/0XbELclfCg==" />
+    </item>
+    <item>
       <title>Version 1.63.0</title>
       <pubDate>Sat, 24 Oct 2026 19:24:37 -0500</pubDate>
       <sparkle:version>202610241916</sparkle:version>
