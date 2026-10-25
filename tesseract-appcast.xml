@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.71.0</title>
+      <pubDate>Sun, 25 Oct 2026 13:35:59 -0500</pubDate>
+      <sparkle:version>202610251326</sparkle:version>
+      <sparkle:shortVersionString>1.71.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Widgets for Apollo, Meridian and Alaura on iPhone and Mac: lists, planner, calendar, sleep, water and food, with interactive buttons, plus Control Center buttons.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.71.0/Tesseract-1.71.0.dmg" length="58744906" type="application/octet-stream" sparkle:edSignature="VQ2f9DCJWKLJXfjoNAaJ5qVMnlvYHHjSXQ2wlVSaBW2/u8eh9gJz8I0oIfktI1J5kFxsFqZsuKz/5ejKwt4ZDw==" />
+    </item>
+    <item>
       <title>Version 1.70.0</title>
       <pubDate>Sun, 25 Oct 2026 01:05:52 -0500</pubDate>
       <sparkle:version>202610250057</sparkle:version>
