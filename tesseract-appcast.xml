@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.65.0</title>
+      <pubDate>Sat, 24 Oct 2026 20:15:40 -0500</pubDate>
+      <sparkle:version>202610242006</sparkle:version>
+      <sparkle:shortVersionString>1.65.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Click any file an agent made and it opens in the right-hand panel: images, PDF, HTML, Markdown, CSV, text, and Word/Excel/PowerPoint/Pages/audio/video through Quick Look. Plus hidden halves hidden from VoiceOver.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.65.0/Tesseract-1.65.0.dmg" length="58014792" type="application/octet-stream" sparkle:edSignature="vC8rf1zSPOIg1EattKs+Kc2TlrpdX+8yvn0B7LEyA68TpAdRHyJLbGdrVmHZKV0orPPDS3lqitH/4jBqYkmDCw==" />
+    </item>
+    <item>
       <title>Version 1.64.0</title>
       <pubDate>Sat, 24 Oct 2026 19:55:33 -0500</pubDate>
       <sparkle:version>202610241946</sparkle:version>
