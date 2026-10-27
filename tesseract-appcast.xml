@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.77.0</title>
+      <pubDate>Tue, 27 Oct 2026 16:32:20 -0500</pubDate>
+      <sparkle:version>202610271623</sparkle:version>
+      <sparkle:shortVersionString>1.77.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Saga Discs: re-reads on appear and keeps reading, so an early read before connecting heals</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.77.0/Tesseract-1.77.0.dmg" length="59564174" type="application/octet-stream" sparkle:edSignature="cSHF3bqXfOhVLPkwBAW5VALEGOikPknlZCQHc2fYWP68Rwtyst1KjnIG/VDc5IJ11+tq5WjrxdJuY5s6r/I1Dg==" />
+    </item>
+    <item>
       <title>Version 1.76.0</title>
       <pubDate>Tue, 27 Oct 2026 16:19:18 -0500</pubDate>
       <sparkle:version>202610271609</sparkle:version>
