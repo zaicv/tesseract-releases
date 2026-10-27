@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.75.0</title>
+      <pubDate>Tue, 27 Oct 2026 10:44:11 -0500</pubDate>
+      <sparkle:version>202610271034</sparkle:version>
+      <sparkle:shortVersionString>1.75.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Saga Pipeline reports its state to Probe (groundwork for Saga Discs)</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.75.0/Tesseract-1.75.0.dmg" length="59067417" type="application/octet-stream" sparkle:edSignature="Jt07aBMNirr21eMUF909vB0NlzeYUARSPQ2jdcnzhDrMOBBS2EyqarPiMsKpqNS3xFdPebNwtYqENLgDITciCQ==" />
+    </item>
+    <item>
       <title>Version 1.74.0</title>
       <pubDate>Mon, 26 Oct 2026 23:33:47 -0500</pubDate>
       <sparkle:version>202610262326</sparkle:version>
