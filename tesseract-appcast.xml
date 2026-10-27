@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.76.0</title>
+      <pubDate>Tue, 27 Oct 2026 16:19:18 -0500</pubDate>
+      <sparkle:version>202610271609</sparkle:version>
+      <sparkle:shortVersionString>1.76.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Saga Discs: the disc app replaces Pipeline — live drives, jobs, gates, history and library</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.76.0/Tesseract-1.76.0.dmg" length="59562970" type="application/octet-stream" sparkle:edSignature="ROYfC8Z7pAqcublLYojg1ZIPA0fOuyUk33RD6YUoFH4YyueQZW6srOvnTZBQIEcBZnpFGArewnjMiVF+Z5qGCQ==" />
+    </item>
+    <item>
       <title>Version 1.75.0</title>
       <pubDate>Tue, 27 Oct 2026 10:44:11 -0500</pubDate>
       <sparkle:version>202610271034</sparkle:version>
