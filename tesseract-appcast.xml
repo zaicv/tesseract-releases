@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.80.0</title>
+      <pubDate>Tue, 27 Oct 2026 17:15:26 -0500</pubDate>
+      <sparkle:version>202610271708</sparkle:version>
+      <sparkle:shortVersionString>1.80.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Saga Discs: the iCloud backup check works end to end</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.80.0/Tesseract-1.80.0.dmg" length="59567978" type="application/octet-stream" sparkle:edSignature="Xje812G0lNHOHuOTyjII9C1EE0FrNNL/qV6U58EfO+6PfXSXO30MqNZmOfkWHIAfjdyF/28JJ7Eb4MryPisLCQ==" />
+    </item>
+    <item>
       <title>Version 1.79.0</title>
       <pubDate>Tue, 27 Oct 2026 16:59:15 -0500</pubDate>
       <sparkle:version>202610271651</sparkle:version>
