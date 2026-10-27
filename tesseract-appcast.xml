@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.78.0</title>
+      <pubDate>Tue, 27 Oct 2026 16:47:52 -0500</pubDate>
+      <sparkle:version>202610271639</sparkle:version>
+      <sparkle:shortVersionString>1.78.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Probe reads the app's window, not a floating panel (on-screen checks for Saga Discs)</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.78.0/Tesseract-1.78.0.dmg" length="59564299" type="application/octet-stream" sparkle:edSignature="8wSGE+AsQJ2Mtb1g8FBUQX3XjGyZbCgqS1vwijj/8KJ+sW1NlpXOCh3XFU6ot8LLo/9RJhWEhej1NBIeYgrECA==" />
+    </item>
+    <item>
       <title>Version 1.77.0</title>
       <pubDate>Tue, 27 Oct 2026 16:32:20 -0500</pubDate>
       <sparkle:version>202610271623</sparkle:version>
