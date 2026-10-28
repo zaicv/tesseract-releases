@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.81.0</title>
+      <pubDate>Tue, 27 Oct 2026 22:13:15 -0500</pubDate>
+      <sparkle:version>202610272204</sparkle:version>
+      <sparkle:shortVersionString>1.81.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Saga Discs: calmer look, posters printed on the discs, discs spin only while a scan or rip is running, faster Start, films without a disc guide.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.81.0/Tesseract-1.81.0.dmg" length="59602817" type="application/octet-stream" sparkle:edSignature="+QR87XC6h1iJToBMN/Njg/AmVU4R7dAKTCOhX9MQf/G4zYr2ncF4oucFb9V0PPB5DylNoUt4PVp4HFO7riygCg==" />
+    </item>
+    <item>
       <title>Version 1.80.0</title>
       <pubDate>Tue, 27 Oct 2026 17:15:26 -0500</pubDate>
       <sparkle:version>202610271708</sparkle:version>
