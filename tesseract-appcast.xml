@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.82.0</title>
+      <pubDate>Wed, 28 Oct 2026 12:46:50 -0500</pubDate>
+      <sparkle:version>202610281239</sparkle:version>
+      <sparkle:shortVersionString>1.82.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Saga Discs: a cleaner job page in the overview's style, a vertical Rip · Encode · Move track on job cards, the Plex gate on the card and in notifications, Saga's decisions on the job.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.82.0/Tesseract-1.82.0.dmg" length="59668649" type="application/octet-stream" sparkle:edSignature="XSZChNK04TB53lyGC5AGCoYE31bydZfss7ikchxIiorgbXkeA/jCwinMmOpB2LjzNPty7DbjuoUgBmkFsCXPBw==" />
+    </item>
+    <item>
       <title>Version 1.81.0</title>
       <pubDate>Tue, 27 Oct 2026 22:13:15 -0500</pubDate>
       <sparkle:version>202610272204</sparkle:version>
