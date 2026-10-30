@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.85.0</title>
+      <pubDate>Thu, 29 Oct 2026 23:48:00 -0500</pubDate>
+      <sparkle:version>202610292340</sparkle:version>
+      <sparkle:shortVersionString>1.85.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Cerebro fits any window: nothing hides or gets cut off any more, from an ultrawide down to half a split. Claude Code's chrome throughout — title bar with a ⋯ menu, a pane with expand and close, the sidebar's back/forward and footer, a one-row composer with a grey status line and the context ring, quieter messages, a composer-first new thread, and smooth motion that respects Reduce Motion.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.85.0/Tesseract-1.85.0.dmg" length="59775168" type="application/octet-stream" sparkle:edSignature="bSjY3xZuJBLXm82MLqC1a4tIOGsBc7oNPp805RYPOXJRfTM21f6jQLW/rF9R5A9Jw9GvKOYU6BgXwTYn4HcODA==" />
+    </item>
+    <item>
       <title>Version 1.84.0</title>
       <pubDate>Thu, 29 Oct 2026 21:37:10 -0500</pubDate>
       <sparkle:version>202610292127</sparkle:version>
