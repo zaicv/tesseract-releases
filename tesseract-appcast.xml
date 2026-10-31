@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.87.0</title>
+      <pubDate>Fri, 30 Oct 2026 23:14:17 -0500</pubDate>
+      <sparkle:version>202610302303</sparkle:version>
+      <sparkle:shortVersionString>1.87.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Moneta and Career UI Full Overhaul</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.87.0/Tesseract-1.87.0.dmg" length="60910949" type="application/octet-stream" sparkle:edSignature="jCK1IiFENaNNHkqTHAtHXxew/Hb0OWwfH6pUDUMwbycAEEAwILCn/wzX8zoPZg4lZSiE0txEzNHivnxVKUAwCw==" />
+    </item>
+    <item>
       <title>Version 1.85.0</title>
       <pubDate>Thu, 29 Oct 2026 23:48:00 -0500</pubDate>
       <sparkle:version>202610292340</sparkle:version>
