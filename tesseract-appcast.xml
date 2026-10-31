@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.89.0</title>
+      <pubDate>Sat, 31 Oct 2026 16:44:12 -0500</pubDate>
+      <sparkle:version>202610311636</sparkle:version>
+      <sparkle:shortVersionString>1.89.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Background tasks: send a running tool to the background from its card, manage them in a Background tasks sheet, and Send now under a queued message so it's read at once without interrupting. Cerebro on the iPhone (Apps ▸ Jarvis ▸ Cerebro). Live Activities that end when their run does, say when they're stale, and answer gates from the Lock Screen.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.89.0/Tesseract-1.89.0.dmg" length="61103879" type="application/octet-stream" sparkle:edSignature="UVr/BXnx4qCBGPtfBwtqavsFSrtwDN21cLtRu2tywDVfQjIW955n3bmmTxFIK5+W+s7qlW6vR52JKt1HEesUAA==" />
+    </item>
+    <item>
       <title>Version 1.88.0</title>
       <pubDate>Sat, 31 Oct 2026 11:19:30 -0500</pubDate>
       <sparkle:version>202610311108</sparkle:version>
