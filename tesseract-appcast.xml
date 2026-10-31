@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.89.2</title>
+      <pubDate>Sat, 31 Oct 2026 18:17:08 -0500</pubDate>
+      <sparkle:version>202610311807</sparkle:version>
+      <sparkle:shortVersionString>1.89.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Cerebro on the iPhone looks like Claude's iOS app: its gray, its session list, the agent's colour as the accent, a size smaller. A session's first message no longer shows Queued.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.89.2/Tesseract-1.89.2.dmg" length="61107858" type="application/octet-stream" sparkle:edSignature="HTYrSeKn7tQSU6SuSk7XsVpDfOkDxHpqgD8RMmadl/7RpL8sQ2hcUOFV5blu3F0CASh/k2IpDmtn4k5ory3SAw==" />
+    </item>
+    <item>
       <title>Version 1.89.1</title>
       <pubDate>Sat, 31 Oct 2026 17:49:09 -0500</pubDate>
       <sparkle:version>202610311740</sparkle:version>
