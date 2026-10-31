@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.88.0</title>
+      <pubDate>Sat, 31 Oct 2026 11:19:30 -0500</pubDate>
+      <sparkle:version>202610311108</sparkle:version>
+      <sparkle:shortVersionString>1.88.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Money, first class: a glass page pill, an Overview with figures, a Mac Table for transactions, Budget and Reports (Swift Charts), Accounts, a right-hand inspector for bills, purchases and calendar days, ⌘F search, ⌘N quick add, and Moneta in a side pane who proposes changes you approve. Pictures are kept at the N.O.C. so every Mac and the phone show them. Windows now reflow instead of clipping, in every app; the All agents button is gone (the dock replaces it). Includes Stasi's Career Tracker, now on the same agent pane.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.88.0/Tesseract-1.88.0.dmg" length="60999108" type="application/octet-stream" sparkle:edSignature="ULGF1Qm0fDcp3G32uRJefy4jRRDVXSqzmUk4yGXGOGclmH6a9EYnUTYUGRvmzC9GwUmJApJ5lfx8TQ7omMbpAA==" />
+    </item>
+    <item>
       <title>Version 1.87.0</title>
       <pubDate>Fri, 30 Oct 2026 23:14:17 -0500</pubDate>
       <sparkle:version>202610302303</sparkle:version>
