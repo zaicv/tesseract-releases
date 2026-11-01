@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.89.3</title>
+      <pubDate>Sat, 31 Oct 2026 21:49:44 -0500</pubDate>
+      <sparkle:version>202610312139</sparkle:version>
+      <sparkle:shortVersionString>1.89.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Cerebro on the iPhone at Claude Code parity: its text size and spacing, nothing under replies, the context ring, Claude's working line and composer; a New session sheet with the agent carousel; agents as a tinted grid; short titles from Apple's on-device model.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.89.3/Tesseract-1.89.3.dmg" length="61138563" type="application/octet-stream" sparkle:edSignature="4XxFi1OFrEUI7i2SShZP6Bi3MSQtoG63Hr6BchowKOm/tNdBssrnonH3QChQo/qAextD9CKllWZfZjiQXbk2AQ==" />
+    </item>
+    <item>
       <title>Version 1.89.2</title>
       <pubDate>Sat, 31 Oct 2026 18:17:08 -0500</pubDate>
       <sparkle:version>202610311807</sparkle:version>
