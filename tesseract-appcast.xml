@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.92.0</title>
+      <pubDate>Sun, 01 Nov 2026 22:35:51 -0600</pubDate>
+      <sparkle:version>202611012225</sparkle:version>
+      <sparkle:shortVersionString>1.92.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>A strip at the top says why home is slow or away, with Retry; calls carry request ids and deadlines and retry safely; streams reconnect on silence; the phone is no longer judged against the Mac's updates.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.92.0/Tesseract-1.92.0.dmg" length="61623331" type="application/octet-stream" sparkle:edSignature="JEHF2L/BuDXLKUPtFncl9bvqs3+vRtf+ub7AkUeS0NG08waS+YYfgVlZGTDmrkN8ONn9fGP+BXnSHKUDpsr6Bw==" />
+    </item>
+    <item>
       <title>Version 1.91.0</title>
       <pubDate>Sun, 01 Nov 2026 20:44:25 -0600</pubDate>
       <sparkle:version>202611012024</sparkle:version>
