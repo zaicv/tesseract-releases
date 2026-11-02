@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.91.0</title>
+      <pubDate>Sun, 01 Nov 2026 20:44:25 -0600</pubDate>
+      <sparkle:version>202611012024</sparkle:version>
+      <sparkle:shortVersionString>1.91.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Timepage widget: extra-large portrait, faster taps, action pills, events open their card in Meridian; Moneta pictures now sync to the data stack as base64 PNG</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.91.0/Tesseract-1.91.0.dmg" length="61561363" type="application/octet-stream" sparkle:edSignature="Mbz+mNOxmxppFHRau8c2IThpNYGxjoCP7rPOjWj26aMmcP2E5tywq/VNaeJCQiCrKXamufaGUS4jlo+dSoq9AA==" />
+    </item>
+    <item>
       <title>Version 1.90.0</title>
       <pubDate>Sun, 01 Nov 2026 17:58:49 -0600</pubDate>
       <sparkle:version>202611011749</sparkle:version>
