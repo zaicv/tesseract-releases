@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.93.0</title>
+      <pubDate>Mon, 02 Nov 2026 13:30:50 -0600</pubDate>
+      <sparkle:version>202611021321</sparkle:version>
+      <sparkle:shortVersionString>1.93.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Income is your canon income sources, checked off into the account it landed in. Accounts page has an account transactions table; Live Off folds into one line. Bills and income checks book transactions; calendar shows bill pictures.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.93.0/Tesseract-1.93.0.dmg" length="61788717" type="application/octet-stream" sparkle:edSignature="b6VxFRD+/N3garyo+UdlHZ3XyXW8/gHShUBn5JaLMtUc7OiEmsFTPxyqykeW7dgm8ORMs4YlY2pO2KqmcugdBQ==" />
+    </item>
+    <item>
       <title>Version 1.92.0</title>
       <pubDate>Sun, 01 Nov 2026 22:35:51 -0600</pubDate>
       <sparkle:version>202611012225</sparkle:version>
