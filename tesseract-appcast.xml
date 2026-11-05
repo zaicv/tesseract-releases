@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.95.0</title>
+      <pubDate>Wed, 04 Nov 2026 23:09:24 -0600</pubDate>
+      <sparkle:version>202611042259</sparkle:version>
+      <sparkle:shortVersionString>1.95.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>iPhone goes native: a tab bar with Phoebe in the bottom accessory, a Springboard Apps tab, a planner you can rearrange and restyle (saved at home), the switcher opens on a card tap, and new Equil, Teeth and Unlocks apps.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.95.0/Tesseract-1.95.0.dmg" length="61858692" type="application/octet-stream" sparkle:edSignature="wCIsYKKnOo2KOBsEVgICy30CTaF6pT/o74aotjQxOS4NqVT0iGo3XzCYK4DsUhOt40oXNNgejckEE5hyqLOyBw==" />
+    </item>
+    <item>
       <title>Version 1.94.0</title>
       <pubDate>Wed, 04 Nov 2026 20:02:37 -0600</pubDate>
       <sparkle:version>202611041953</sparkle:version>
