@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.94.0</title>
+      <pubDate>Wed, 04 Nov 2026 20:02:37 -0600</pubDate>
+      <sparkle:version>202611041953</sparkle:version>
+      <sparkle:shortVersionString>1.94.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Apollo on iPhone: bigger cards measured from the reference, a tapped list zooms to full screen, the new-card ✓ saves, Search opens without the keyboard, the list pager stays on its rail, and a card opened in a list no longer closes the list.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.94.0/Tesseract-1.94.0.dmg" length="61789654" type="application/octet-stream" sparkle:edSignature="f4CjYPaXCGPQqzc8/W4rprMWkG8eCWgm5BDibiiUvliX2IM2Oc75AGF8WTzSkHWEoPKPbHX++wdY1xJYzG1RBg==" />
+    </item>
+    <item>
       <title>Version 1.93.0</title>
       <pubDate>Mon, 02 Nov 2026 13:30:50 -0600</pubDate>
       <sparkle:version>202611021321</sparkle:version>
