@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.97.0</title>
+      <pubDate>Fri, 06 Nov 2026 01:42:23 -0600</pubDate>
+      <sparkle:version>202611060131</sparkle:version>
+      <sparkle:shortVersionString>1.97.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Home banner goes quiet: nothing appears until home has been away a full minute, and its button opens Diagnostics (a new native page on iPhone, Stack on the Mac). Tablet on iPhone becomes a real planner: each weekday has its own colour, set in Tablet settings, with a big weekday heading, Glow ring and Apollo-style cards. Swipe to change day; tap the heading to jump.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.97.0/Tesseract-1.97.0.dmg" length="62179673" type="application/octet-stream" sparkle:edSignature="r0mD3WtvSa1GeuzNG8wRfGbjyO5OykBbD6bsc1Qi//l1rX/AcQs7/jzGZWJ25AGvNFMzOlgVSZbex+hmN3gKDg==" />
+    </item>
+    <item>
       <title>Version 1.96.0</title>
       <pubDate>Thu, 05 Nov 2026 21:02:53 -0600</pubDate>
       <sparkle:version>202611052042</sparkle:version>
