@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.98.0</title>
+      <pubDate>Fri, 06 Nov 2026 03:37:15 -0600</pubDate>
+      <sparkle:version>202611060308</sparkle:version>
+      <sparkle:shortVersionString>1.98.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>iPhone: every agent is now a place. Tap an orb for its own Home with the circles, its Cerebro, its Apps and a native Settings, on a faint tint of its colour. Apps moved out of the root tabs; system pages live with Phoebe and Jarvis.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.98.0/Tesseract-1.98.0.dmg" length="62181029" type="application/octet-stream" sparkle:edSignature="Oe8OWWChu8z2NxgtHpaOJ1lQ4pQkD/6N2/V2KEn4d9mfB9hDwFrSUPt+SL2bVYUTT72o6O7zkiMQjvKu2L4qBg==" />
+    </item>
+    <item>
       <title>Version 1.97.0</title>
       <pubDate>Fri, 06 Nov 2026 01:42:23 -0600</pubDate>
       <sparkle:version>202611060131</sparkle:version>
