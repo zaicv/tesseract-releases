@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.96.0</title>
+      <pubDate>Thu, 05 Nov 2026 21:02:53 -0600</pubDate>
+      <sparkle:version>202611052042</sparkle:version>
+      <sparkle:shortVersionString>1.96.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Tablet: Alaura's app for the day's care, with editable goals and routines and a meals goal, replaces the Planner on iPhone and joins her apps on the Mac.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.96.0/Tesseract-1.96.0.dmg" length="62014379" type="application/octet-stream" sparkle:edSignature="3L+UhHCnyzgxwgWfMEDy2dXsL5yI1iQXq4H08A5LUUOFrUe6fez1IZ8LW5o34pA0ro4pIZJI9bmVt1zPedGGDQ==" />
+    </item>
+    <item>
       <title>Version 1.95.0</title>
       <pubDate>Wed, 04 Nov 2026 23:09:24 -0600</pubDate>
       <sparkle:version>202611042259</sparkle:version>
