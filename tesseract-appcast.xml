@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.99.0</title>
+      <pubDate>Fri, 06 Nov 2026 22:13:15 -0600</pubDate>
+      <sparkle:version>202611062203</sparkle:version>
+      <sparkle:shortVersionString>1.99.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Money on the iPhone: a full native app in Moneta's space, with Overview, Budget, Wallets, Save and Tools, offline writes, widgets, and Moneta moving the view and proposing changes. On the Mac: transfers no longer count as spending, and a bill marked paid no longer counts its early payment twice.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.99.0/Tesseract-1.99.0.dmg" length="62405014" type="application/octet-stream" sparkle:edSignature="jGmrI56W8Tqs2c30hsnp9G672XgpMnDqhA6IH+EgjkKnc+0b3Oa7EVabp6b19fddltBelKoPKJ1r3Cm8tgudCA==" />
+    </item>
+    <item>
       <title>Version 1.98.0</title>
       <pubDate>Fri, 06 Nov 2026 03:37:15 -0600</pubDate>
       <sparkle:version>202611060308</sparkle:version>
