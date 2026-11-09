@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.101.0</title>
+      <pubDate>Mon, 09 Nov 2026 17:35:21 -0600</pubDate>
+      <sparkle:version>202611091725</sparkle:version>
+      <sparkle:shortVersionString>1.101.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Canvas design round: a real window (move, resize, full screen); every kind of thing distinct with real previews; sources flow down into the answer and its product; a light and a few words show where the agent is working; the agent's own orb opens the thread; choose which Claude account agents run under.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.101.0/Tesseract-1.101.0.dmg" length="63781782" type="application/octet-stream" sparkle:edSignature="YGKZWFbyDvouLKxGydEGl1gO9xQ+aKDHpy6B0DCAlY3EoKe1cnDc9mDATON0Z5uEV8eenJLuoPXJluiFfn76Cw==" />
+    </item>
+    <item>
       <title>Version 1.100.0</title>
       <pubDate>Mon, 09 Nov 2026 15:59:14 -0600</pubDate>
       <sparkle:version>202611091547</sparkle:version>
