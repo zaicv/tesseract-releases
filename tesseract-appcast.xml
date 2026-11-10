@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.103.0</title>
+      <pubDate>Tue, 10 Nov 2026 08:57:13 -0600</pubDate>
+      <sparkle:version>202611100847</sparkle:version>
+      <sparkle:shortVersionString>1.103.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Canvas v2, release A — the foundation: real things drawn as themselves (books, papers, pages, files, notes, folders, places, video, audio, searches), one anatomy and one token system, a sky with no edges, things falling by role and lineage for your window with piles when the work outgrows it, standard scrolling and zooming, the agent's orb travelling to what it's working on, the conversation on a glass panel at the right edge, asides about any one thing, and one scene shared by chat, voice, the window and the iPhone.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.103.0/Tesseract-1.103.0.dmg" length="64158938" type="application/octet-stream" sparkle:edSignature="iSKHpWh5ZhuVA/QR1+/wlnDpaVvmOnqrstn8AAsgWbdjxAB1PvTOMbtsqPQ4y+vEkVDreHoQEze4xomRJ+i+Dg==" />
+    </item>
+    <item>
       <title>Version 1.102.0</title>
       <pubDate>Mon, 09 Nov 2026 19:31:42 -0600</pubDate>
       <sparkle:version>202611091915</sparkle:version>
