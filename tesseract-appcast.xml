@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.106.0</title>
+      <pubDate>Wed, 11 Nov 2026 13:51:12 -0600</pubDate>
+      <sparkle:version>202611111334</sparkle:version>
+      <sparkle:shortVersionString>1.106.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Canvas Stage release 1: a fourth side, Canvas (⌃⌘4) — black, the agent's living orb, one mic that starts a conversation. The orb's liquid now leaves the orb: it streams to what she attends, wraps it in her light, lets go, and she travels or dissolves and re-forms. Every other orb is unchanged.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.106.0/Tesseract-1.106.0.dmg" length="64922060" type="application/octet-stream" sparkle:edSignature="XXeKQo7/4pa3IsuibKIjFcCHG9n7c1ByRpff9TK5xce6aGO4pElFZ0OrwGiMtY62TY54tDKy9GJGsLcAcPMKDQ==" />
+    </item>
+    <item>
       <title>Version 1.105.0</title>
       <pubDate>Wed, 11 Nov 2026 07:51:20 -0600</pubDate>
       <sparkle:version>202611110741</sparkle:version>
