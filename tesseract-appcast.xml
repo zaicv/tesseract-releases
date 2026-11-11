@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.104.0</title>
+      <pubDate>Wed, 11 Nov 2026 04:21:47 -0600</pubDate>
+      <sparkle:version>202611110404</sparkle:version>
+      <sparkle:shortVersionString>1.104.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>The living orb: Phoebe and every agent's hero orb is now a luminous particle liquid that breathes, listens (your voice as a ring of bands, hers moving the orb), leans in, thinks, flinches, blooms, rests after a long quiet, and draws every live thread, tool call and note it's working on as one structure you can hover to name. Agents have a temperament, feelings and gestures. Today's orb stays as the fallback.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.104.0/Tesseract-1.104.0.dmg" length="64698864" type="application/octet-stream" sparkle:edSignature="VCr5dlPY9OIfMC1NF7QdXz/OAE7iDAb4AKJIkcvTXltXRGlrVllG33VSHJZ6d1vNokB77AjtHPXNcPR68gPtDw==" />
+    </item>
+    <item>
       <title>Version 1.103.0</title>
       <pubDate>Tue, 10 Nov 2026 08:57:13 -0600</pubDate>
       <sparkle:version>202611100847</sparkle:version>
