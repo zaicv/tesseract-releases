@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.105.0</title>
+      <pubDate>Wed, 11 Nov 2026 07:51:20 -0600</pubDate>
+      <sparkle:version>202611110741</sparkle:version>
+      <sparkle:shortVersionString>1.105.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>The agent's big hero orb is now the living orb on the Mac. On the Home ring, rest the pointer on an agent's orb and the living liquid rises out of the glass and grows slightly; move away and it settles back.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.105.0/Tesseract-1.105.0.dmg" length="64720048" type="application/octet-stream" sparkle:edSignature="v4H+5ShRuQ9VxgECWLg3PONsTGNuFbRyofnozcMNEGfBeQCjHcyNziPwhGQGg/ylMZSMk1EsWf7CtuR9bWhzBA==" />
+    </item>
+    <item>
       <title>Version 1.104.0</title>
       <pubDate>Wed, 11 Nov 2026 04:21:47 -0600</pubDate>
       <sparkle:version>202611110404</sparkle:version>
