@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.108.0</title>
+      <pubDate>Thu, 12 Nov 2026 17:53:18 -0600</pubDate>
+      <sparkle:version>202611121737</sparkle:version>
+      <sparkle:shortVersionString>1.108.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Settings ▸ Orb: choose the living orb, the face, the line face or the glass orb for every orb; flowing or classic (1.106) rings. Agent-home rings are centred with no black rectangle, orange skill and green fabricator dots sit between the rings and the belts are brighter. Emotes gain unscripted life (brow flashes, half-smiles, blinks with glances, breathing, syllable mouth). The line face is minimal: streams that fade out and re-appear elsewhere in entangled pairs. Settings is laid out like macOS System Settings.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.108.0/Tesseract-1.108.0.dmg" length="65641034" type="application/octet-stream" sparkle:edSignature="fNImwLya+tcGte/UCHnCc3zZoTsaJYOK8I6+PMH9z2rn9PcLzwthkuhf/Y/7jwYvz8f5hVXxq1e4sLa3HjpQDQ==" />
+    </item>
+    <item>
       <title>Version 1.107.0</title>
       <pubDate>Thu, 12 Nov 2026 16:13:18 -0600</pubDate>
       <sparkle:version>202611121558</sparkle:version>
