@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.107.0</title>
+      <pubDate>Thu, 12 Nov 2026 16:13:18 -0600</pubDate>
+      <sparkle:version>202611121558</sparkle:version>
+      <sparkle:shortVersionString>1.107.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Orb Layers: the agent's real skills, fabricators, connectors and files sit in rings around the orb; the orb's own liquid reaches out to each as it works, errors turn the liquid into a held red ring, and a finished turn traces each ring. Plus the orb's living face and Stage component fixes.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.107.0/Tesseract-1.107.0.dmg" length="65596559" type="application/octet-stream" sparkle:edSignature="F6bjqdkQ1dNZG+D8mz41PZNxcbwefNTJvZlw/r81SUD7iIQvgmIRynkC1kFkBYz3NBw8M5EBTNTZCYhFvgsEBQ==" />
+    </item>
+    <item>
       <title>Version 1.106.0</title>
       <pubDate>Wed, 11 Nov 2026 13:51:12 -0600</pubDate>
       <sparkle:version>202611111334</sparkle:version>
