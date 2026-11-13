@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.113.0</title>
+      <pubDate>Fri, 13 Nov 2026 09:59:59 -0600</pubDate>
+      <sparkle:version>202611130942</sparkle:version>
+      <sparkle:shortVersionString>1.113.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Clio: Friday's notes app. Plain Markdown files in a folder you choose (iCloud, git autosave), a Notion-styled TipTap editor, a finder-view sidebar (tree, icons, list, Quick Look), tabs, page icon and cover, ⌘P and ⌘K, and an orb-to-Clio opening.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.113.0/Tesseract-1.113.0.dmg" length="66591357" type="application/octet-stream" sparkle:edSignature="ssWGjs+JMRn4VgveCDTEnrqkKBaGYtodGZ1pqsLtk5KDHb6JRA4QZ/ki7xNo+C4AZeejgmKXWEW2oP+f+lcIDg==" />
+    </item>
+    <item>
       <title>Version 1.112.0</title>
       <pubDate>Thu, 12 Nov 2026 21:45:44 -0600</pubDate>
       <sparkle:version>202611122117</sparkle:version>
