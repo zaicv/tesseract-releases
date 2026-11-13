@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.111.0</title>
+      <pubDate>Thu, 12 Nov 2026 21:14:29 -0600</pubDate>
+      <sparkle:version>202611122053</sparkle:version>
+      <sparkle:shortVersionString>1.111.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Voice opens instantly: the mic is on about 25 ms after you ask (was about 2 s) because the audio engine and speech recognizer are built ahead. New Settings ▸ Voice ▸ Wait before she answers, so a brief pause no longer ends your turn. Fixes the 'No thread' error when asking Phoebe again after a quiet spell.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.111.0/Tesseract-1.111.0.dmg" length="65684600" type="application/octet-stream" sparkle:edSignature="udVx14P6CcEFqA1gSPt6Qf7RglFkrFACWtXN5rj8Zs4UUfbu9/qJ/IlzOSwTr8PWE2lYXQ2gYZubERA/Q1RWCA==" />
+    </item>
+    <item>
       <title>Version 1.110.0</title>
       <pubDate>Thu, 12 Nov 2026 19:18:21 -0600</pubDate>
       <sparkle:version>202611121906</sparkle:version>
