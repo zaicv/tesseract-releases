@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.112.0</title>
+      <pubDate>Thu, 12 Nov 2026 21:45:44 -0600</pubDate>
+      <sparkle:version>202611122117</sparkle:version>
+      <sparkle:shortVersionString>1.112.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Fixes Phoebe running a random tool on ordinary talk (answering 'Done.' or a drive's name to 'how are you doing?'), and the instant 'mm-hm' on chat.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.112.0/Tesseract-1.112.0.dmg" length="65684812" type="application/octet-stream" sparkle:edSignature="tMYp6sOa8EEGk3RoXXv+VN5YpFRTtCo+ruegyku2Gh3USvT4CmKDoBQhykpVAYk/WsaKuMZjjREsgRCa2BTaCg==" />
+    </item>
+    <item>
       <title>Version 1.111.0</title>
       <pubDate>Thu, 12 Nov 2026 21:14:29 -0600</pubDate>
       <sparkle:version>202611122053</sparkle:version>
