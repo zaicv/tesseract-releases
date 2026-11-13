@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.110.0</title>
+      <pubDate>Thu, 12 Nov 2026 19:18:21 -0600</pubDate>
+      <sparkle:version>202611121906</sparkle:version>
+      <sparkle:shortVersionString>1.110.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>The line face is flowing plasma: curling streams that fade out and re-appear in entangled pairs, strokes that push out of each other's way, expression changes that ripple out from her eyes. Her head stays inside the rings and is never a closed shape; a short braid falls down her right side. Clicking a skill dot shows the skill's description and fabricators.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.110.0/Tesseract-1.110.0.dmg" length="65649574" type="application/octet-stream" sparkle:edSignature="iD+5EjKxk6k+N8j6Neeyk2vnTngbgq9Hw2PEHDHK3elIbfffIyMwJm2XiwvQrCFu7PIGJnNUKHYg2oiEcPbvAQ==" />
+    </item>
+    <item>
       <title>Version 1.109.0</title>
       <pubDate>Thu, 12 Nov 2026 18:28:23 -0600</pubDate>
       <sparkle:version>202611121809</sparkle:version>
