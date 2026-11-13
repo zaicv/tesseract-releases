@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.109.0</title>
+      <pubDate>Thu, 12 Nov 2026 18:28:23 -0600</pubDate>
+      <sparkle:version>202611121809</sparkle:version>
+      <sparkle:shortVersionString>1.109.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>The line face is braided strands of flowing particles instead of brush-like bands: strokes weave through each other where they cross, always moving.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.109.0/Tesseract-1.109.0.dmg" length="65640897" type="application/octet-stream" sparkle:edSignature="gm/wULKJw/eFSxuPwB0xXqgovox2rktSRQ83DJylAzrrKfZkyEsPGW0MhwbNH6/KOmgBOYgZAXbzjLIndi8nBA==" />
+    </item>
+    <item>
       <title>Version 1.108.0</title>
       <pubDate>Thu, 12 Nov 2026 17:53:18 -0600</pubDate>
       <sparkle:version>202611121737</sparkle:version>
