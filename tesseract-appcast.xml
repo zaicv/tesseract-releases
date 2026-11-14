@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.118.0</title>
+      <pubDate>Sat, 14 Nov 2026 09:38:35 -0600</pubDate>
+      <sparkle:version>202611140928</sparkle:version>
+      <sparkle:shortVersionString>1.118.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Home link moves into NOCLink: one transport for every call to home, with deadlines by call class, one retry policy read from the daemon's error envelope, and cancellation that stays silent.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.118.0/Tesseract-1.118.0.dmg" length="66868396" type="application/octet-stream" sparkle:edSignature="dKnUO6gXKUYk79XVaIoNNjLjftwOaOFFfbgcBVKOzvAvzG3yeU3FfmhapkDFlUAXmWDqMAh4jqxQtnc+Yt61Bw==" />
+    </item>
+    <item>
       <title>Version 1.117.0</title>
       <pubDate>Sat, 14 Nov 2026 08:43:59 -0600</pubDate>
       <sparkle:version>202611140832</sparkle:version>
