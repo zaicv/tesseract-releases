@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.114.0</title>
+      <pubDate>Fri, 13 Nov 2026 19:30:08 -0600</pubDate>
+      <sparkle:version>202611131919</sparkle:version>
+      <sparkle:shortVersionString>1.114.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Takes the home server's vault.changed push instead of polling the vault every few seconds; the agent dashboard refreshes the moment a recipe changes, with a one-minute safety poll.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.114.0/Tesseract-1.114.0.dmg" length="66598314" type="application/octet-stream" sparkle:edSignature="hmVamqtNjqtdJriz1jieJpRec5IQZDyjva9WL/jJHEPrhWgEv/tEV43AclK4hSZH1QvPRhOB3Fer3auqESiKCw==" />
+    </item>
+    <item>
       <title>Version 1.113.0</title>
       <pubDate>Fri, 13 Nov 2026 09:59:59 -0600</pubDate>
       <sparkle:version>202611130942</sparkle:version>
