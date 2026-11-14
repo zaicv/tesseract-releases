@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.121.0</title>
+      <pubDate>Sat, 14 Nov 2026 15:15:15 -0600</pubDate>
+      <sparkle:version>202611141433</sparkle:version>
+      <sparkle:shortVersionString>1.121.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Opens on what you last saw: the saved agents list is up in a fraction of a second, marked stale until home answers. Writes queued while home is away now land exactly once, a write home refuses no longer blocks the queue, and widget and watch writes are deduped too.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.121.0/Tesseract-1.121.0.dmg" length="67010907" type="application/octet-stream" sparkle:edSignature="qgnS3NTYFg1ST+wr9CODdzSKrai7qqsu2g5DW117DRK0+UeoYE8CytLmDln5wLLcaXmFjXymuw4sn3L5QKxOAA==" />
+    </item>
+    <item>
       <title>Version 1.120.0</title>
       <pubDate>Sat, 14 Nov 2026 11:53:28 -0600</pubDate>
       <sparkle:version>202611141142</sparkle:version>
