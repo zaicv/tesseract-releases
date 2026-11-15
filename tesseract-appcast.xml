@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.123.0</title>
+      <pubDate>Sat, 14 Nov 2026 23:16:33 -0600</pubDate>
+      <sparkle:version>202611142256</sparkle:version>
+      <sparkle:shortVersionString>1.123.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Every connection to home now goes through one tested path, and replies are checked against home's published contract, so a bad record is skipped and named instead of breaking a list.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.123.0/Tesseract-1.123.0.dmg" length="67033485" type="application/octet-stream" sparkle:edSignature="WV3ceOYnFmHadcyetfd69FlNgk2GVm//Ew+/05li9PI23kIIq89BaX9s/90vHuPLqPyOoJsJv1ruwpVpL7DrBQ==" />
+    </item>
+    <item>
       <title>Version 1.121.0</title>
       <pubDate>Sat, 14 Nov 2026 15:15:15 -0600</pubDate>
       <sparkle:version>202611141433</sparkle:version>
