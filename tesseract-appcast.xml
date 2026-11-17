@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.126.0</title>
+      <pubDate>Tue, 17 Nov 2026 01:14:50 -0600</pubDate>
+      <sparkle:version>202611170103</sparkle:version>
+      <sparkle:shortVersionString>1.126.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Hardening, the final phase: views poll only while you can see them, a hidden app stops its animations for real (idle 2.8 %), Agent Home shows skills at once from the saved copy, and updates install themselves after 20 idle minutes or on quit.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.126.0/Tesseract-1.126.0.dmg" length="67361833" type="application/octet-stream" sparkle:edSignature="FextAIs3p08i1iss/nlWzhdrykZGOXv3ixWxOzRT2fTVf657xTlsMTFSmNEbAuKkH80REGKhnexzDA6pYsMCDg==" />
+    </item>
+    <item>
       <title>Version 1.125.0</title>
       <pubDate>Sun, 15 Nov 2026 09:44:13 -0600</pubDate>
       <sparkle:version>202611150917</sparkle:version>
