@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.127.1</title>
+      <pubDate>Wed, 18 Nov 2026 00:07:15 -0600</pubDate>
+      <sparkle:version>202611172356</sparkle:version>
+      <sparkle:shortVersionString>1.127.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Continuum owns search: Spotlight's find answers from rag_query in well under a second (timeout 30 s, was 180 s); contract 5 (the retired search tools leave the client).</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.127.1/Tesseract-1.127.1.dmg" length="67358091" type="application/octet-stream" sparkle:edSignature="o4QOfDneEXoBaqkYjAknY3hTf36ohfpJC3k+ydU8rhEAC0PVUHSjBAuoKmnqb9ECXxpXYbBWv8CvVXXe0jr1DA==" />
+    </item>
+    <item>
       <title>Version 1.127.0</title>
       <pubDate>Tue, 17 Nov 2026 13:43:30 -0600</pubDate>
       <sparkle:version>202611171334</sparkle:version>
