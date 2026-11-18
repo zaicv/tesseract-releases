@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.127.2</title>
+      <pubDate>Wed, 18 Nov 2026 15:49:33 -0600</pubDate>
+      <sparkle:version>202611181540</sparkle:version>
+      <sparkle:shortVersionString>1.127.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Speaks contract 6: verify_answer, the daemon's find-it-then-read-it check, is known to the app</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.127.2/Tesseract-1.127.2.dmg" length="67358184" type="application/octet-stream" sparkle:edSignature="E9kpDJpUVlY6UOnTvIBtiqG3U2g0r1DyR+5K7XzMUT1Rt6AYaaqlQ96OiUmxmz/D0/e+VVr0fbh/zeYVfQfNAQ==" />
+    </item>
+    <item>
       <title>Version 1.127.1</title>
       <pubDate>Wed, 18 Nov 2026 00:07:15 -0600</pubDate>
       <sparkle:version>202611172356</sparkle:version>
