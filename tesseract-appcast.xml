@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.128.1</title>
+      <pubDate>Wed, 18 Nov 2026 20:12:51 -0600</pubDate>
+      <sparkle:version>202611182003</sparkle:version>
+      <sparkle:shortVersionString>1.128.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Delphi's island shows her living orb while Tesseract is behind (it showed only the green flash).</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.128.1/Tesseract-1.128.1.dmg" length="67533427" type="application/octet-stream" sparkle:edSignature="P11f3m8rEC8Yl3VwW6DMonbEw1WsPHCxfjWzGnkTTsdVEUmhuSr0817jOYlQ8Vqkjb1CXONjvkZrUws9UgAZCg==" />
+    </item>
+    <item>
       <title>Version 1.128.0</title>
       <pubDate>Wed, 18 Nov 2026 19:42:05 -0600</pubDate>
       <sparkle:version>202611181932</sparkle:version>
