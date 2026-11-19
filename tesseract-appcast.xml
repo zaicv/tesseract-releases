@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.128.0</title>
+      <pubDate>Wed, 18 Nov 2026 19:42:05 -0600</pubDate>
+      <sparkle:version>202611181932</sparkle:version>
+      <sparkle:shortVersionString>1.128.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Hand it to Delphi: the island at the top of the screen, her orb and Filing app (history, Undo, Show in Finder), Share to Delphi on the iPhone, filing notifications on Mac and iPhone; contract 7.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.128.0/Tesseract-1.128.0.dmg" length="67528570" type="application/octet-stream" sparkle:edSignature="jLizjtU1uc1sT1TcRau7KgkYBIZ7Mmq3qDasp1jPXwk7WLhwxxDNZyBKoHQgDjwJVJ6GcRpgVGuoqBP71gvXAQ==" />
+    </item>
+    <item>
       <title>Version 1.127.2</title>
       <pubDate>Wed, 18 Nov 2026 15:49:33 -0600</pubDate>
       <sparkle:version>202611181540</sparkle:version>
