@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.131.0</title>
+      <pubDate>Fri, 20 Nov 2026 01:15:50 -0600</pubDate>
+      <sparkle:version>202611200106</sparkle:version>
+      <sparkle:shortVersionString>1.131.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Clio: back and forward arrows in the tab row and Notion's date on Edited</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.131.0/Tesseract-1.131.0.dmg" length="68038803" type="application/octet-stream" sparkle:edSignature="ZMKgESVQSKJMmgv8un7/H2VKaXREVBWeDKZOLzfSSOcp5bd1WS41ibfRgw/unz0agL9c2z3uoI1Tb/eRkZC8Ag==" />
+    </item>
+    <item>
       <title>Version 1.130.0</title>
       <pubDate>Fri, 20 Nov 2026 00:51:44 -0600</pubDate>
       <sparkle:version>202611200040</sparkle:version>
