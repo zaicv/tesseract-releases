@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.136.0</title>
+      <pubDate>Fri, 20 Nov 2026 17:29:31 -0600</pubDate>
+      <sparkle:version>202611201718</sparkle:version>
+      <sparkle:shortVersionString>1.136.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Clio no longer freezes on a network vault: paths are tidied without asking the share about every file</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.136.0/Tesseract-1.136.0.dmg" length="68331146" type="application/octet-stream" sparkle:edSignature="8uclfKOCqOZdcjlE5baZwycTbEcTZV2TULrEujvBCGnId9pIxl46MLYvfP1OmY9SJneJgpeYORb0zywXtO+yDA==" />
+    </item>
+    <item>
       <title>Version 1.135.0</title>
       <pubDate>Fri, 20 Nov 2026 15:54:23 -0600</pubDate>
       <sparkle:version>202611201544</sparkle:version>
