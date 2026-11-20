@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.134.0</title>
+      <pubDate>Fri, 20 Nov 2026 15:17:27 -0600</pubDate>
+      <sparkle:version>202611201506</sparkle:version>
+      <sparkle:shortVersionString>1.134.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Clio on the MacBook: the sidebar lists the vault from home (fast, never blank); breadcrumbs show their folder in the sidebar.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.134.0/Tesseract-1.134.0.dmg" length="68329599" type="application/octet-stream" sparkle:edSignature="BA0T1ybZ9cg2tYqa5gaLiXFKvrKC1YstRGOIBujcnzQHdIfhlY5grnXauI+BP73V+G0HXFRJvp0lu9At+4SCBA==" />
+    </item>
+    <item>
       <title>Version 1.133.0</title>
       <pubDate>Fri, 20 Nov 2026 14:29:45 -0600</pubDate>
       <sparkle:version>202611201419</sparkle:version>
