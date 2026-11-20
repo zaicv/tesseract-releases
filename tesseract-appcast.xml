@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.132.0</title>
+      <pubDate>Fri, 20 Nov 2026 11:53:15 -0600</pubDate>
+      <sparkle:version>202611201141</sparkle:version>
+      <sparkle:shortVersionString>1.132.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Clio: a folder on the Mac mini's share no longer freezes the app (the folder is read in the background, notes only, and the share is remounted at launch). Notion's sidebar (Search, Home, Recents, Private), Settings from the footer's workspace menu, a Home page, and Settings, tabs and menus measured against Notion.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.132.0/Tesseract-1.132.0.dmg" length="68211480" type="application/octet-stream" sparkle:edSignature="B5ZeOwwPwLG1DUCqu68SSwOfjhpjncoNlE1V0xTab908lZGWwwBEDndrJkdicLvmFFK4QNZ0WbUkECh49ozfCA==" />
+    </item>
+    <item>
       <title>Version 1.131.0</title>
       <pubDate>Fri, 20 Nov 2026 01:15:50 -0600</pubDate>
       <sparkle:version>202611200106</sparkle:version>
