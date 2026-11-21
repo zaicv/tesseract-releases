@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.138.0</title>
+      <pubDate>Sat, 21 Nov 2026 11:14:30 -0600</pubDate>
+      <sparkle:version>202611211103</sparkle:version>
+      <sparkle:shortVersionString>1.138.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Energia on the Mac: a card's + slides in a dish card with ingredient search and Add &amp; another; even menu columns; right-click and drag to move dishes; the Planner's dish list under category headers, planned meals drag between days; Settings for people and menu categories; Alaura beside Energia (⌘J). The Saved/Undo line floats instead of pushing the page.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.138.0/Tesseract-1.138.0.dmg" length="68642823" type="application/octet-stream" sparkle:edSignature="ZF29lT98Cqcxj+HF+6K5SA9XVrHwtNjFOjuZgrnkmG9yFiEIMmhxVbGXrFxn+eLJu8mqQoed+l+hT/A3SUKmDA==" />
+    </item>
+    <item>
       <title>Version 1.137.0</title>
       <pubDate>Fri, 20 Nov 2026 22:05:49 -0600</pubDate>
       <sparkle:version>202611202154</sparkle:version>
