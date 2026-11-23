@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.140.0</title>
+      <pubDate>Sun, 22 Nov 2026 19:58:33 -0600</pubDate>
+      <sparkle:version>202611221948</sparkle:version>
+      <sparkle:shortVersionString>1.140.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Voice: every spoken turn ends. Her hold is renewed and taken back, eight seconds of nothing asks home and then she says so, her failure lines are kept on the device, a failed turn shows its reason, and the echo test is a Probe action.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.140.0/Tesseract-1.140.0.dmg" length="68675171" type="application/octet-stream" sparkle:edSignature="t9tCo81jYlRbQKexO7XW0wKsFoX9nWpypzICoEV0X9uIBADvd4hpET3jMZJc67q92Ku5xZR93e87Q5UOWO6gCg==" />
+    </item>
+    <item>
       <title>Version 1.139.0</title>
       <pubDate>Sun, 22 Nov 2026 15:56:36 -0600</pubDate>
       <sparkle:version>202611221546</sparkle:version>
