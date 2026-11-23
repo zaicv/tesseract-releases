@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.141.0</title>
+      <pubDate>Sun, 22 Nov 2026 23:55:21 -0600</pubDate>
+      <sparkle:version>202611222344</sparkle:version>
+      <sparkle:shortVersionString>1.141.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>BCS B1c: the Beings and Workspaces cutover reaches the client. The agent prompts name roles (Saga's Tools, Friday's tests, a workspace) instead of Phoebe/Agents paths; scenarios name the new places; a path from before the move still reads through the daemon.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.141.0/Tesseract-1.141.0.dmg" length="68674964" type="application/octet-stream" sparkle:edSignature="lQXpLay4WEFcLVC1HBG2KbRMjBphaKKkhZjHd1xM5+YRHPoi8m8hEtc9kUb+L5hki9uSopbHvDeffj7GdkzWBA==" />
+    </item>
+    <item>
       <title>Version 1.140.0</title>
       <pubDate>Sun, 22 Nov 2026 19:58:33 -0600</pubDate>
       <sparkle:version>202611221948</sparkle:version>
