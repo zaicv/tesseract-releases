@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.142.0</title>
+      <pubDate>Tue, 24 Nov 2026 12:14:02 -0600</pubDate>
+      <sparkle:version>202611241202</sparkle:version>
+      <sparkle:shortVersionString>1.142.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Quiet at rest: the app holds its decoration still after 45 s untouched and draws nothing hidden (idle 0.7 % of a core, was up to 92 %). Probe sees every screen on the Mac and the iPhone simulator (atlas, measure, timing, vitals). iPhone holds portrait.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.142.0/Tesseract-1.142.0.dmg" length="68803518" type="application/octet-stream" sparkle:edSignature="F/bD+LPESaAGfasPbLtn+aLdYc/AOpynxVF9vjocYEYlUMVKPpgOsMVsEKolyHIAhi3H4OPiPg7x0Tr/qkoECw==" />
+    </item>
+    <item>
       <title>Version 1.141.0</title>
       <pubDate>Sun, 22 Nov 2026 23:55:21 -0600</pubDate>
       <sparkle:version>202611222344</sparkle:version>
