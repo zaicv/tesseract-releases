@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.142.1</title>
+      <pubDate>Tue, 24 Nov 2026 16:43:17 -0600</pubDate>
+      <sparkle:version>202611241632</sparkle:version>
+      <sparkle:shortVersionString>1.142.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Fixes from the review of 1.142.0: resting only holds decoration still. The voice panel keeps moving over other apps, views that refresh from home keep refreshing, a thinking or speaking orb keeps moving, and switching back with Cmd-Tab wakes the app at once.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.142.1/Tesseract-1.142.1.dmg" length="68810352" type="application/octet-stream" sparkle:edSignature="sY9scCXcVgFux0O44nPeehd4RX5EdsKBX3fnxNxfhgWihafcnrOpDrR98omlpsDJ4cJQay/RPYswLPr38AHfBg==" />
+    </item>
+    <item>
       <title>Version 1.142.0</title>
       <pubDate>Tue, 24 Nov 2026 12:14:02 -0600</pubDate>
       <sparkle:version>202611241202</sparkle:version>
