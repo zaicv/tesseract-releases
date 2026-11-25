@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.142.2</title>
+      <pubDate>Tue, 24 Nov 2026 18:29:20 -0600</pubDate>
+      <sparkle:version>202611241819</sparkle:version>
+      <sparkle:shortVersionString>1.142.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>A speaking orb keeps moving in the voice panel over other apps; MDS no longer redraws an unchanged list every 5 seconds.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.142.2/Tesseract-1.142.2.dmg" length="68811232" type="application/octet-stream" sparkle:edSignature="dcePMrP3U0vqvsxiIm24NIE6K49Ug7IsRxuUuYOPvGelKkvL/kF3CSQfMcQgNodsB3BijUqvqx+WJnk3T8ffCQ==" />
+    </item>
+    <item>
       <title>Version 1.142.1</title>
       <pubDate>Tue, 24 Nov 2026 16:43:17 -0600</pubDate>
       <sparkle:version>202611241632</sparkle:version>
