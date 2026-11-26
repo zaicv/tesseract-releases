@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.143.1</title>
+      <pubDate>Thu, 26 Nov 2026 17:39:14 -0600</pubDate>
+      <sparkle:version>202611261728</sparkle:version>
+      <sparkle:shortVersionString>1.143.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Voice V2: one ear and one mouth off the main thread. The mic opens in about 60 ms, short pauses end on time without cutting you off, cutting in takes under 300 ms, audio changes repair in place, and your pause setting follows you between devices.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.143.1/Tesseract-1.143.1.dmg" length="68917769" type="application/octet-stream" sparkle:edSignature="kZpyKYeW0sdzCKM8gswYibNavF9+NcdXUF849p+ISNIaJeGXzTqEoIo9s/BzXvX2lqQzg6zBijh65crYca3NAA==" />
+    </item>
+    <item>
       <title>Version 1.142.2</title>
       <pubDate>Tue, 24 Nov 2026 18:29:20 -0600</pubDate>
       <sparkle:version>202611241819</sparkle:version>
