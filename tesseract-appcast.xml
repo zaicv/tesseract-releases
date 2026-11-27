@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.145.0</title>
+      <pubDate>Fri, 27 Nov 2026 13:55:38 -0600</pubDate>
+      <sparkle:version>202611271344</sparkle:version>
+      <sparkle:shortVersionString>1.145.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>The Continuum app, under Delphi: the whole vault and code as a graph on silver glass. Zoom from the atlas down to files, type to light it up, press Return to arrive with the passages, open any file at its line.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.145.0/Tesseract-1.145.0.dmg" length="69380383" type="application/octet-stream" sparkle:edSignature="VEju66QKDvDSZbIXZig/SLca3IrdRU8k14W/OGAZ+cNtc3+R1tmEHiYu83DGCW74te4npQzCYKVLRa8TWhqeAA==" />
+    </item>
+    <item>
       <title>Version 1.144.0</title>
       <pubDate>Fri, 27 Nov 2026 10:48:09 -0600</pubDate>
       <sparkle:version>202611271037</sparkle:version>
