@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.144.0</title>
+      <pubDate>Fri, 27 Nov 2026 10:48:09 -0600</pubDate>
+      <sparkle:version>202611271037</sparkle:version>
+      <sparkle:shortVersionString>1.144.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Threads resume where they left off after a dropped connection, and lists update the moment something changes. Voice: each turn carries your device's id, a dropped voice stream replays what it missed, an interrupted turn can't be spoken over, and a conversation survives a home restart. Needs Celestia 1.95.</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.144.0/Tesseract-1.144.0.dmg" length="68973307" type="application/octet-stream" sparkle:edSignature="KvrfxHjesG58U3YoM08KvY6Xxj1cg9iAYw28dn8nnczNZMJ/8TQGNDRYwe6XLMy5DbTd5kdgmALyPKL16CgNDg==" />
+    </item>
+    <item>
       <title>Version 1.143.1</title>
       <pubDate>Thu, 26 Nov 2026 17:39:14 -0600</pubDate>
       <sparkle:version>202611261728</sparkle:version>
