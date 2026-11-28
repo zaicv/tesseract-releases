@@ -5,6 +5,15 @@
     <description>The AIOS — a client to Celestia.</description>
     <language>en</language>
     <item>
+      <title>Version 1.149.0</title>
+      <pubDate>Fri, 27 Nov 2026 23:59:25 -0600</pubDate>
+      <sparkle:version>202611272343</sparkle:version>
+      <sparkle:shortVersionString>1.149.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>The history comes home: Cerebro lists every imported past session under its Being, with 'Show older' on each agent card (contract 21)</description>
+      <enclosure url="https://github.com/zaicv/tesseract-releases/releases/download/tesseract-v1.149.0/Tesseract-1.149.0.dmg" length="69627984" type="application/octet-stream" sparkle:edSignature="jrxHYLt48dTrVGhKrfNZIsKcVxLQsT0jk57s8PEm950z2Sykb/xWRnVEf/4FleZg+gZJZlnOu7BhpfAUQxryBA==" />
+    </item>
+    <item>
       <title>Version 1.148.0</title>
       <pubDate>Fri, 27 Nov 2026 18:02:07 -0600</pubDate>
       <sparkle:version>202611271749</sparkle:version>
